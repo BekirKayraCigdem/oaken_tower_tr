@@ -1,0 +1,2509 @@
+{
+  "early_access": {
+    "early_access": "Erken Erisim",
+    "thank_you": "Oaken Tower'i desteklediginiz icin cok tesekkur ederiz.",
+    "message": "Erken erisim sirasinda hatalar, denge ve oynanis hakkindaki katkilarinizi memnuniyetle karsiliyor ve geri bildirimlerinizi paylasmak icin aktif discord'a katilmanizi tesvik ediyoruz.",
+    "new_packs": "YENI PAKETLER",
+    "leaderboard": "LIDERLIK TABLOSU",
+    "reset": "SIFIRLAMA",
+    "endless": "SONSUZ",
+    "mode": "MOD",
+    "20": "20+",
+    "perks": "AVANTAJLAR",
+    "new_content": "1. SEZON ICIN YENI ICERIK",
+    "enjoy": "Umarim eglenirsiniz!  -Solo Gelistirici, Bocary"
+  },
+  "tutorial": {
+    "acknowledge": "Anladim",
+    "info1": "Oaken Tower'a hos geldiniz! Dukkana girin.",
+    "info2": "Bunlar satin alabileceginiz ve kulenize koyabileceginiz ogelerdir.",
+    "info3": "Ogeleri yeniden yuvarlayabilir veya bir sonraki tur icin dondurabilirsiniz.",
+    "info4": "Egitim size seviye atlamaniz icin XP verir. Tam seviye satin almak icin sag tiklayabilirsiniz.",
+    "info5": "Seviyeler magazada daha nadir esyalar saglar. Magaza nadirliklerini gormek icin buraya gelin!",
+    "info6": "Kuleniz otomatik olarak savasir! Bir galibiyet 1 Kupa kazandirir.",
+    "info7": "Oyunun baslarinda daha az kalp kaybedersiniz.",
+    "info7_1": "1-2. Gun: -1",
+    "info7_2": "3-4. Gun: -2",
+    "info7_3": "5. Gun+: -3",
+    "info8": "Ayni ogeden ucu 1 Yildizli ogeye yukseltilir. Iki adet 1 Yildizli ogenin elde edilmesi, bunlari 2 Yildizli bir ogeye yukseltir.",
+    "info9": "Ogelerin guclu 3 Yildizli yukseltmesini elde etmenin ozel yollari da vardir...",
+    "info10": "Iyi sanslar, Oakling",
+    "info13": "FAYDALI IPUCU - Bir sonraki yildiz duzeylerini gormek icin ogelerin uzerinde kaydirmayi basili tutabilirsiniz. Daha fazla seviye gormek icin kaydirma tekerlegini kullanin."
+  },
+  "combat_log": {
+    "damage": "Hasar: ",
+    "bleedDamage": "Kanama hasari: ",
+    "triggers": "Tetikleyiciler: ",
+    "crits": "Kritikler: ",
+    "poison": "Zehir: ",
+    "burn": "Yanik: ",
+    "shield": "Kalkan: ",
+    "bleed": "Kanama: ",
+    "heal": "Iyilesme: ",
+    "shock": "Sok: ",
+    "gold": "Altin: ",
+    "income": "Gelir: ",
+    "maxhp": "Maksimum HP: ",
+    "shockDmg": "Sok Hasari: ",
+    "cleansed": "Temizlenmis: ",
+    "generated": "Olusturuldu: ",
+    "total_debuff": "Toplam Zayiflatici Hasari"
+  },
+  "player_titles": {
+    "oakling": "Meselik",
+    "veteran": "Kidemli",
+    "developer": "Gelistirici",
+    "alibi_games": "mazeret",
+    "playtester": "Oyun Testcisi",
+    "supporter": "Destekci",
+    "season_1_bronze": "1. Sezon Bronz",
+    "season_1_silver": "1. Sezon Gumus",
+    "season_1_gold": "1. Sezon Altin",
+    "season_1_emerald": "1. Sezon Zumrut",
+    "season_1_diamond": "1. Sezon Elmas",
+    "season_1_master": "1. Sezon Usta",
+    "season_1_grandmaster": "1. Sezon Buyuk Usta"
+  },
+  "tower_skins": {
+    "oaken_tower": "Mese Kulesi",
+    "runic_tower": "Runik Kule",
+    "marble_tower": "Mermer Kule",
+    "birch_tower": "Hus Kulesi"
+  },
+  "lucky_rolls": {
+    "roll1": "Tum urunler satista.",
+    "roll2": "Magaza yalnizca sahip oldugunuz urunleri icerir.",
+    "roll3": "Magazada yalnizca efsanevi esyalar bulunur.",
+    "roll4": "Magazada yalnizca kureler bulunur.",
+    "roll5": "Magaza yalnizca bir rastgele oge iceriyor.",
+    "roll6": "3 rastgele urun ucretsizdir.",
+    "roll7": "Magazada yalnizca iksirler bulunur.",
+    "roll8": "Magazada bir Dovme Bicak bulunmaktadir.",
+    "roll9": "Magazada yalnizca buyu kitaplari bulunur.",
+    "roll10": "Magaza rastgele uyarlanmis bir yapi icerir.",
+    "roll11": "Magazada yalnizca Muskalar bulunur.",
+    "roll12": "Bir hazine kasasina rastlarsiniz.",
+    "roll13": "Magaza bir Ayna Iksiri icerir.",
+    "roll14": "Magazada Phantom Brew bulunmaktadir.",
+    "roll15": "Magaza lanetli bir esya iceriyor.",
+    "roll16": "Magazada yalnizca esanslar bulunur.",
+    "roll17": "Chronomancer'in dukkani.",
+    "roll18": "Magazada Crownforge Brew bulunur.",
+    "roll19": "Seker ya da saka.",
+    "roll20": "Bu yil iyiydin.",
+    "roll21": "Magazada Mimik Cubuk bulunmaktadir.",
+    "roll22": "Magaza bir Gorunum Iksiri icerir.",
+    "roll23": "Ucretli Magaza.",
+    "roll24": "Elektrik Magazasi.",
+    "roll25": "Carmen'in Dukkani.",
+    "roll26": "Magaza 1 Yildizli ogeler icerir.",
+    "roll27": "Magazada bir Yildiz Isigi Iksiri bulunur.",
+    "roll100": "Dukkan sahibi seni dolandirmaya calisiyor."
+  },
+  "ui": {
+    "randomize_names": "Rakip Adlarini Rastgele Secin",
+    "log": "Gunluk",
+    "deep_freeze": "Derin Dondurucu",
+    "deep_freeze2": "Havuza +1 kopya ekler.",
+    "lucky_roll": "Sansli Rulo!",
+    "executed": "Idam edildi!",
+    "keep_rerolling": "Lucky'ye kadar yuvarlanmak mi?",
+    "season": "Sezon",
+    "credits": "Kredi",
+    "pixel_artist": "Piksel Sanatcisi",
+    "vfx_artist": "VFX Sanatcisi",
+    "jack_gutmann": "Animasyonlar.",
+    "riverbird": "Ogeler, Kullanici Arayuzu, Arka Planlar.",
+    "alberto": "Karsilasmalar, Beceri Simgeleri.",
+    "developed_by": "Yalniz Gelistirici:",
+    "published_by": "Yayinlayan:",
+    "packs_tip1": "En az 8 secilmis paket gereklidir.",
+    "packs_tip2": "8'den azini secerseniz oyun sizin icin minimum 8'e kadar rastgele paketler dolduracaktir.",
+    "packs_tip3": "Daha cilgin bir oyun icin 8'den fazla paket de secebilirsiniz.",
+    "perks_tip1": "4 avantajdan olusan bir dizi secin.",
+    "perks_tip2": "Her oyunda bunlardan rastgele bir tanesi size atanacaktir.",
+    "perks_tip3": "Tum avantajlarin kilidini actiktan sonra, +%5 bonus puani saglayan tamamen rastgele bir avantaj secebilirsiniz.",
+    "hdr": "HDR",
+    "demo": "-DEMO-",
+    "titles": "Basliklar",
+    "max": "maksimum",
+    "endless": "Sonsuz Mod",
+    "drag_item_here": "OGEYI BURAYA SURUKLEYIN",
+    "top_filter": "Ust",
+    "you_filter": "sen",
+    "friends_filter": "Arkadaslar",
+    "copy_code": "Derleme Kodunu Kopyala",
+    "paste_code": "Yapi Kodunu Yapistir",
+    "copied": "Kopyalandi!",
+    "fight_oak": "Mese ile Savas",
+    "most_common": "En Yaygin:",
+    "rating_change": "Derecelendirme Degisikligi: ",
+    "promoted": "Terfi edildi!",
+    "demoted": "Dusuruldu.",
+    "avg_enemy_rating": "Ortalama Dusman Puani: ",
+    "none_casual": "Yok (Gundelik)",
+    "none_endless": "Yok (Sonsuz)",
+    "enter_shop": "Magazaya Girin",
+    "exit_shop": "Magazadan Cik",
+    "cursor_size": "Imlec Boyutu",
+    "sort": "siralama",
+    "ctrl": "(ctrl)",
+    "types_this_game": "Dahil olanlar: ",
+    "missing_types": "Eksik: ",
+    "luck_info": "Sansli Yeniden Kayitlar alma sansi.",
+    "triple_reward": "Uclu sandik odulu:",
+    "lvl1-2": "Seviye 1-2",
+    "lvl3-4": "Seviye 3-4",
+    "lvl5+": "Seviye 5+",
+    "victory": "ZAFER",
+    "defeat": "YENILGI",
+    "packs_ui": "Paketler",
+    "perks_ui": "Avantajlar",
+    "hide": "Gizle",
+    "show": "Goster",
+    "use": "Kullanim",
+    "sell": "Sat",
+    "for": "Sunun icin:",
+    "sells_for": "Sunun icin satiyor: ",
+    "gold_coins": "Altin",
+    "inventory": "Envanter",
+    "pouch": "Kese",
+    "player": "Oyuncu",
+    "rating": "Derecelendirme",
+    "rank": "Sira",
+    "page": "SAYFA:",
+    "music": "MUZIK",
+    "sfx": "Efekt",
+    "general": "Genel",
+    "video": "video",
+    "back": "Geri",
+    "bronze": "Bronz",
+    "silver": "Gumus",
+    "gold": "Altin",
+    "emerald": "Zumrut",
+    "diamond": "Elmas",
+    "master": "Usta",
+    "grandmaster": "Buyuk usta",
+    "game_by_bocary": "BOCARY STUDIOS'TAN BIR OYUN",
+    "published_by_alibi": "ALIBI GAMES TARAFINDAN YAYINLANDI",
+    "casual": "gundelik",
+    "ranked": "Dereceli",
+    "custom": "Ozel",
+    "start": "BASLA",
+    "leaderboard": "Liderlik tablosu",
+    "server": "Sunucu: ",
+    "us_eu": "ABD/AB",
+    "hong_kong": "HONG KONG",
+    "fullscreen": "Tam ekran",
+    "fps": "FPS",
+    "showRarityTip": "Bu, magaza fiyatlarini nadir renkte renklendirir.",
+    "showRarity": "Nadirligi Goster",
+    "glow_strength": "Nadirlik Parilti Gucu",
+    "showTypes": "Turleri Goster",
+    "enable_hotkeys": "Kisayol Tuslarini Etkinlestir",
+    "hotkeys_tip1": "[SPACE] devam et | [F] donmak",
+    "hotkeys_tip2": "[R] yeniden kayit | [CTRL] siralama",
+    "hotkeys_tip3": "[T] tren | [SHFT + T] hizli tren",
+    "hotkeys_tip4": "[S+RMB] hizli satilan ogeler ve sandiklar",
+    "hotkeys_tip5": "[S+LMB] Envanterden iksiri sil",
+    "quick_use_potions": "Hizli Kullanim Iksirleri",
+    "quick_use_potions_tip": "Iksirleri son iksir maddesinde kullanmak icin sag tiklayin.",
+    "force_carmen": "Gunluk Kiyafette Carmen'i Zorla",
+    "epilepsy_mode": "Epilepsi Modu",
+    "epilepsy_mode_tip": "Oyunu epilepsi dostu hale getirmek icin tum mermileri ve VFX'leri gorunmez hale getirir",
+    "level": "Seviye:",
+    "perk": "Ayricalik",
+    "day": "Gun",
+    "continue": "DEVAM ET",
+    "level_up": "Seviye Atlama",
+    "free": "Ucretsiz",
+    "cheap": "Ucuz",
+    "increases_in": "Artislar",
+    "lucky": "Sansli",
+    "trophies": "Kupalar",
+    "lives": "yasiyor",
+    "fight": "MUCADELE!",
+    "concede": "Kabul et",
+    "auto": "oto",
+    "sure": "Elbette?",
+    "resume": "Devam et",
+    "settings": "Ayarlar",
+    "to_menu": "Menuye",
+    "end_run": "Kosuyu Sonlandirmak mi?",
+    "collection": "Koleksiyon",
+    "history": "Tarih",
+    "match_history": "Mac Gecmisi",
+    "quit": "Cik",
+    "other": "Diger",
+    "gameplay": "oynanis",
+    "accessibility": "Erisilebilirlik",
+    "colorblind": "Renk Koru Modu",
+    "colorblind0": "Protanopi",
+    "colorblind1": "Dotanopi",
+    "colorblind2": "Tritanopi",
+    "screenshake": "Ekran Sarsintisi",
+    "lucky_roll_effect": "Sansli Rulo Ekran Efekti",
+    "vsync": "VSYNC",
+    "custom_mode": "Ozel Mod",
+    "custom_mode_tip": "Bu, gundelik modda ozel eslesmelere olanak tanir. Basit Eglence'de onlarla savasmak icin yapinizi CTRL+C ile kopyalayin ve arkadaslarinizin yapisini CTRL+V ile yapistirin!",
+    "game_cursor": "Oyun Imleci",
+    "items": "Ogeler",
+    "perks": "Avantajlar",
+    "towers": "Kuleler",
+    "leaders": "Liderler",
+    "sigils": "Muhurler",
+    "per_level": "Seviye Basina:",
+    "better_drop_chanes": "Sansi dusurmek daha iyi.",
+    "increased_max_hp": "Maksimum HP artirildi.",
+    "income_plus_5": "+5 Gelir.",
+    "income": "Gelir: ",
+    "luck": "Sans: ",
+    "chest": "Gogus: ",
+    "connection_lost": "Baglanti Kesildi",
+    "retry": "Yeniden dene",
+    "status_code_403": "Durum Kodu: 403",
+    "freeze": "Dondur",
+    "train": "Tren",
+    "reroll": "Yeniden kaydet",
+    "all": "hepsi",
+    "clear": "acik"
+  },
+  "pouch_sorting": {
+    "pin": "Olusturulan ogeleri keseye sabitleyin.",
+    "move_chests": "Tum sandiklari hareket ettirin.",
+    "split": "Ogeleri esit olarak bolun.",
+    "move_potions": "Iksirleri tasiyin.",
+    "move_items": "Ogeleri tasiyin."
+  },
+  "encounters": {
+    "available_in_full_version": "Tam surumde mevcuttur.",
+    "unlockable_in_full_version": "Tam surumde kilidi acilabilir.",
+    "unlock": "Kilidini acmak icin: ",
+    "perk0Name": "RASTGELE",
+    "perk0Text": "Her oyunda rastgele bir avantaj kazanin. Bu, siralamada biraz ekstra derecelendirme saglar.",
+    "perk0Unlock": "Diger tum avantajlarin kilidini acin.",
+    "perk1Name": "TEMPO",
+    "perk1Text": "+10 Altin ve rastgele 15 gramlik bir ogeyle baslayin.",
+    "perk2Name": "ALEV",
+    "perk2Text": "Bir Wildfire ile baslayin. 3. Gun: Bir Yakma Yuvasi kazanin.",
+    "perk3Name": "ZEHIRLI",
+    "perk3Text": "Rafine Mizrakla baslayin. 4. Gun: Bir Zehir Yuvasi kazanin.",
+    "perk4Name": "SECILMIS",
+    "perk4Text": "Bir Iyilesme Yuvasi ile baslayin. Pasif: Iyilesmeniz 2 kat iyilestirme icin kritik vurus yapabilir.",
+    "perk5Name": "SANSLI",
+    "perk5Text": "Rastgele 15 gramlik bir urunle baslayin. 3. ve 8. Gun: +%2 sans kazanin.",
+    "perk5Unlock": "3. gunde sansli bir rulo alin.",
+    "perk6Name": "KAPLUMBAGA",
+    "perk6Text": "Kalkan Yuvasi ile baslayin. Pasif: Korumaniz 2 kat kalkan icin kritik vurus yapabilir.",
+    "perk6Unlock": "30 Kalkan satin al.",
+    "perk7Name": "GREV",
+    "perk7Text": "Gumus Mizrakla baslayin. 8. Gun: Cok Noktaya Yayin Yuvasi kazanin.",
+    "perk7Unlock": "99+ coklu yayin ozelligine sahip bir ogeniz olsun.",
+    "perk8Name": "KARANLIK",
+    "perk8Text": "Alacakaranligin Kenari ile baslayin. 7. Gun: Bir Gece Yuvasi kazanin.",
+    "perk8Unlock": "Tam Dark yapisiyla 10. Kupayi 2 kez kazanin.",
+    "perk9Name": "SEKER HAREKETI",
+    "perk9Text": "+5 Altin ile baslayin. 4. gunden itibaren bir parca seker kazanin.",
+    "perk9Unlock": "Toplam 30 seker alin.",
+    "perk10Name": "HAZINE",
+    "perk10Text": "5. seviyeye ulastiginizda: Bir Destansi Sandik kazanin. Sandiklar 3 yerine 4 esya iceriyor.",
+    "perk10Unlock": "Destansi sandiklardan 50 ogeyi kesfedin.",
+    "perk11Name": "GUC",
+    "perk11Text": "Bir Hasar Yuvasi ve bir Kritik Yuvasi ile baslayin.",
+    "perk11Unlock": "10.000 Hasar karsiliginda kritik bir vurus yapin.",
+    "perk12Name": "ELEKTRIK",
+    "perk12Text": "Sok Yuvasi ve +5 Altin ile baslayin. 4. Gun: +5 Sok Hasari kazanin.",
+    "perk12Unlock": "Tek oyunda sok hasarinizi toplam 300'e cikarin.",
+    "perk13Name": "ARSMAGE",
+    "perk13Text": "Rastgele bir ortak Buyu Kitabiyla baslayin. 5. Gun: Bir Buyu Yuvasi kazanin.",
+    "perk13Unlock": "Kulenizdeki yalnizca Buyu veya Sihir ogeleriyle 10. Kupayi 2 kez kazanin.",
+    "perk14Name": "TOPLANTI",
+    "perk14Text": "3 ucretsiz yeniden kayitla baslayin. 2 yerine 3 karsilasma seceneginiz olacak.",
+    "perk14Unlock": "Her karsilastiginizda konusun.",
+    "perk15Name": "altigen",
+    "perk15Text": "Bir Voidspike ile baslayin. 7. Gun: Bir Hex Yuvasi kazanin.",
+    "perk15Unlock": "Tam Arcane yapisiyla 10. Kupayi 2 kez kazanin.",
+    "perk16Name": "STOK",
+    "perk16Text": "+5 Altin ile baslayin. Magazada 7 yerine 8 urun bulunuyor.",
+    "perk16Unlock": "500 urun satin alin.",
+    "perk17Name": "UCUCU YAGLAR",
+    "perk17Text": "5. Gun: Iki Ozden birini kesfedin.",
+    "perk17Unlock": "Bir ogeye 3 kez yeni bir etiket vermek icin Essence kullanin.",
+    "perk18Name": "YAKIN DOVUS",
+    "perk18Text": "Kemik Kulubu ile baslayin. 3. Gun: Yakin Dovus Slotu kazanin.",
+    "perk18Unlock": "6 Yakin Dovus esyasi ile 5 kez 10. Kupayi kazanin.",
+    "perk19Name": "TOPCU",
+    "perk19Text": "Normal Yay ile baslayin. 4. Gun: Bir Topcu Yuvasi kazanin.",
+    "perk19Unlock": "10. Kupayi yalnizca yaylarla kazanin.",
+    "perk20Name": "FLAS INDIRIM",
+    "perk20Text": "+5 Altin ile baslayin. 3, 8 ve 11. gunlerin ilk magazasi satisa sunulacak.",
+    "perk20Unlock": "Indirimli 50 urun satin alin.",
+    "perk21Name": "BIRLESTIR",
+    "perk21Text": "Iki adet 2 Yildizli ogenin elde edilmesi, bunlari 3 Yildizli bir ogede birlestirecektir. Yalnizca bir kez ve 7+ gunden itibaren calisir ({used_unused}).",
+    "perk21Unlock": "3 yildizli bir ogeyle 10. Kupayi 2 kez kazanin.",
+    "used": "kullanilmis",
+    "unused": "kullanilmayan",
+    "perk22Name": "BUYUME",
+    "perk22Text": "Bir Zaman Araligiyla baslayin.",
+    "perk22Unlock": "Dream Catcher'in bekleme surelerini 300 kez azaltin.",
+    "perk23Name": "GAMBIT",
+    "perk23Text": "2. Gun: Rastgele bir Destansi esya kazanin. -%25 HP ve -15 Altin ile baslarsiniz.",
+    "perk23Unlock": "Yalnizca Destansi ogeler satin alirken 10 kupa kazanin.",
+    "perk999Name": "TBA",
+    "perk999Text": "TBA.",
+    "priest1Name": "Iyilestirici Dokunus",
+    "priest1Text": "Maksimum HP'nizi %100 ({hp}) artirin ve +10 Altin kazanin.",
+    "priest2Name": "Nimet",
+    "priest2Text": "+300 Maksimum HP ve +10 Gelir kazanin.",
+    "blacksmith1Name": "Agir Zirh",
+    "blacksmith1Text": "Her dovuse Kalkan olarak %10 Maksimum HP ile baslayin.",
+    "blacksmith2Name": "Guncelleme!",
+    "blacksmith2Text": "Bir silaha +8 hasar ve %30 kritik sansi verin.",
+    "homebrewer1Name": "Rastgele Siseler",
+    "homebrewer1Text": "2 rastgele sise kazanin.",
+    "homebrewer2Name": "Ev yapimi bira",
+    "homebrewer2Text": "Rastgele istatistiklere sahip bir Ev-Brew kazanin.",
+    "pirate1Name": "Kancali",
+    "pirate1Text": "%30 ekstra kritik sansina sahip bir Kanca kazanin.",
+    "pirate2Name": "Yagma",
+    "pirate2Text": "Bir Kadeh ve +10 Altin kazanin.",
+    "potionseller1Name": "Normal Stok",
+    "potionseller1Text": "Rastgele bir silah guclendirme iksiri alin.",
+    "potionseller2Name": "Ozel Stok",
+    "potionseller2Text": "Bir deger iksiri kazanin. (magazadaki herhangi bir urunle takas edilebilir).",
+    "shieldbearer1Name": "Kalkanimi al",
+    "shieldbearer1Text": "+1 coklu yayin ile bir Cankurtaran kazanin.",
+    "shieldbearer2Name": "Kalkan Ustaligi",
+    "shieldbearer2Text": "Bir kalkana +1 coklu yayin ve +10 kalkan verin.",
+    "traveller1Name": "Freeroll'lar",
+    "traveller1Text": "Her gun 2 ucretsiz yeniden kayit ve +2 ucretsiz yeniden kayit kazanin (birikebilir).",
+    "traveller2Name": "Gezgin Stoku",
+    "traveller2Text": "Bir Sisede 4x Bulut kazanin (+3 ucretsiz yeniden kayit saglar).",
+    "warrior1Name": "Keskinlestir",
+    "warrior1Text": "Silahlariniza kalici olarak +6 hasar verin.",
+    "warrior2Name": "Silah Ganimeti",
+    "warrior2Text": "Rastgele 2 ortak silah kazanin.",
+    "elvenarcher1Name": "Elf Iyiligi",
+    "elvenarcher1Text": "Bir Topcu Yuvasi kazanin (Menzilli oge, 10 hasar veren +2 mermi kazanir).",
+    "elvenarcher2Name": "Yayimi al",
+    "elvenarcher2Text": "Elf ve +4 multicast ile Normal Yay kazanin.",
+    "elder1Name": "Aninda Bilgi",
+    "elder1Text": "40 XP kazanin.",
+    "elder2Name": "Yaparak ogrenin",
+    "elder2Text": "16 XP kazanin. Kalici Takviye: Her gun +16 XP kazanin.",
+    "enchanter1Name": "Ogeyi Kesfet",
+    "enchanter1Text": "Destansi bir sandik kazanin.",
+    "enchanter2Name": "Buyule",
+    "enchanter2Text": "Yaygin veya nadir bir ogeyi yukseltin. (Maksimum 2 yildizli).",
+    "mrspook1Name": "Seker mi Saka mi",
+    "mrspook1Text": "Candy artik magazada gorunecek.",
+    "mrspook2Name": "Urkutucu Pazarlik",
+    "mrspook2Text": "2 rastgele Cadi esyasi kazanin.",
+    "potionshop1Name": "calmak",
+    "potionshop1Name2": "calmak",
+    "potionshop1Text": "Buyukanne'nin cesitlerinden 1 iksir cal.",
+    "potionshop2Name": "Urun cesitliligini kontrol edin",
+    "potionshop2Text": "7 iksir iceren bir dukkan.",
+    "sage1Name": "Kutsal Hediye",
+    "sage1Text": "+1 multicast ile bir Tamir Serumu ve bir Sifa Sozu kazanin.",
+    "sage2Name": "Kutsal Dokunus",
+    "sage2Text": "Bir Canlilik Yuvasi kazanin (Iyilestirmeyi Maksimum HP'ye donusturur).",
+    "salesman1Name": "Pazarlik Sozlesmesi",
+    "salesman1Text": "Kalici Buff: Magazadaki urunler indirimde olabilir.",
+    "salesman2Name": "Indirim Lisansi",
+    "salesman2Text": "15 altin kazanin. Kalici Buff: Yeniden yazma maliyetini 1 altin azaltir.",
+    "chronomancer1Name": "Artefakt Iste",
+    "chronomancer1Text": "Bir Zaman Kolyesi kazanin.",
+    "chronomancer2Name": "Iksir Iste",
+    "chronomancer2Text": "Bir Zaman Tonigi kazanin (bir ogenin bekleme suresini kalici olarak 0,5 saniye azaltir).",
+    "cleric1Name": "Hayat Dalgasi",
+    "cleric1Text": "+2000 Maksimum HP kazanin ve 2 cani yenileyin.",
+    "cleric2Name": "Canlilik",
+    "cleric2Text": "+2500 Maksimum HP kazanin.",
+    "carmen1Name": "Sansli Tekrarlar",
+    "carmen1Text": "+%15 Sans kazanin (sansli tekrarlar kazanma sansi).",
+    "carmen2Name": "Su Uzerinde Yurumek",
+    "carmen2Text": "Tum esyalarinizin bekleme suresini 0,3 saniye azaltin.",
+    "celestia1Name": "Ozel Hediye",
+    "celestia1Text": "15 altin ve bir Ayna Iksiri kazanin (bir esyanin sade bir kopyasini verir).",
+    "celestia2Name": "Dilek",
+    "celestia2Text": "2 Yildizli bir ogeyi 2 gun icinde (11. gun) 3 Yildizli bir ogeye yukseltin.",
+    "vlado1Name": "Lanetli Oge",
+    "vlado1Text": "Lanetli bir Ogeyi kesfedin.",
+    "vlado2Name": "Muska Kazan",
+    "vlado2Text": "Bir adet 1 Yildizli Nightquill kazanin (Savas Baslangici efektleriniz fazladan 2 kez tetiklenir).",
+    "alderos1Name": "Yukselis",
+    "alderos1Text": "Bir Epic ogesini veya daha dusuk bir seviyeyi yukseltin (maks. 2 yildiz).",
+    "alderos2Name": "Bilgelik",
+    "alderos2Text": "Kulenizi rastgele slot guclendirmeleriyle doldurun.",
+    "kingmidas1Name": "Kralin Teklifi",
+    "kingmidas1Text": "Bir Hazine Sandigi kazanin. (28 altina satilir ve +2 Kadeh verir)",
+    "kingmidas2Name": "Krala selam olsun",
+    "kingmidas2Text": "Rastgele 2 kutsama arasindan secim yapmasi icin krala 20 altin odeyin.",
+    "midasBlessing1Name": "Kralin Kutsamasi",
+    "midasBlessing1Text": "Her gun bir deger iksiri kazanin.",
+    "midasBlessing2Name": "Broda'nin Kutsamasi",
+    "midasBlessing2Text": "Royal Drop kazanin (magazadaki bir ogenin 3 kopyasini verir).",
+    "midasBlessing3Name": "Sansli Nimet",
+    "midasBlessing3Text": "+%10 sans ve 3 garantili sansli yeniden kayit kazanin.",
+    "midasBlessing4Name": "Bonk Nimet",
+    "midasBlessing4Text": "Bir Kadeh kazan. Her gun ortaya cikma ve satis degerlerine esit hasar alma olasiliklari cok daha yuksektir.",
+    "midasBlessing5Name": "Bozuk Nimet",
+    "midasBlessing5Text": "500 yanik ile bir Doom Kilavuzu kazanin.",
+    "midasBlessing6Name": "Sans Nimet",
+    "midasBlessing6Text": "Bir Hazine Sandigi kazanin. Artik magazada gorunebilirler.",
+    "midasBlessing7Name": "Yanki Nimet",
+    "midasBlessing7Text": "Phantom Brew kazanin (+1 coklu yayin verir).",
+    "midasBlessing8Name": "Canlilik Nimet",
+    "midasBlessing8Text": "Simdi ve her gunun basinda +750 Maksimum HP kazanin.",
+    "midasBlessing9Name": "Keskinlik Nimet",
+    "midasBlessing9Text": "Tum esyalariniza +%20 kritik sansi verin.",
+    "midasBlessing10Name": "Tuccar Nimet",
+    "midasBlessing10Text": "2 Midas Yuvasi kazanin (esyalarin satis degerini artirir).",
+    "lyra1Name": "Derin Dondurucu",
+    "lyra1Text": "Yetenek Kazanin: Derin Dondur. Tek tek ogeleri dondurmak icin surukleyin. Yeniden kayitlara devam ederler ve ortaya cikma olasiliklari artar.",
+    "lyra2Name": "Kuzey Kutsamasi",
+    "lyra2Text": "Bir esyayi Ayaz yapin ve bir Donmus Kure kazanin.",
+    "nicholas1Name": "Hediyeler!",
+    "nicholas1Text": "Hediyeler magazada gorunecek.",
+    "nicholas2Name": "Carki Dondur",
+    "nicholas2Text": "Fiyati: 8 altin. Her donuste +3 altin artar.",
+    "miriel1Name": "Melegine bozuk para at",
+    "miriel1Text": "2 canla diril ve 45 Altin kazan.",
+    "miriel2Name": "Cagriya kulak verin",
+    "miriel2Text": "2 canla yeniden dirilin, 16 XP kazanin ve bir Destansi sandik kazanin.",
+    "bishop1Name": "Yuceltme",
+    "bishop1Text": "+7000 Maksimum HP kazanin ve tum esyalariniza +15 hasar verin.",
+    "bishop2Name": "Kutsama",
+    "bishop2Text": "+6500 Maksimum HP ve 3 garantili sansli yeniden kayit kazanin.",
+    "shadydealer1Name": "Hayir Tesekkurler",
+    "shadydealer1Text": "Teklifi reddedin ve saticidan 5 altin yankesici alin.",
+    "shadydealer2Name": "Dinle evlat..",
+    "shadydealer2Text": "15 derecelendirme puani kaybedin. 23. Gun: +30 derecelendirme puani kazanin.",
+    "priest": "Rahip",
+    "blacksmith": "Demirci",
+    "homebrewer": "Ev-Bira Makinesi",
+    "pirate": "Korsan",
+    "potionseller": "Iksir Saticisi",
+    "shieldbearer": "Kalkan Tasiyicisi",
+    "traveller": "Gezgin",
+    "warrior": "Savasci",
+    "elvenarcher": "Elf Okcusu",
+    "elder": "yasli",
+    "enchanter": "Buyucu",
+    "mrspook": "Bay Spook",
+    "potionshop": "Buyukanne",
+    "sage": "Adacayi",
+    "salesman": "Satici",
+    "chronomancer": "Zamanlayici",
+    "cleric": "Rahip",
+    "carmen": "Carmen",
+    "celestia": "Celestia",
+    "vlado": "Vlado'yu sayin",
+    "alderos": "Usta Alderos",
+    "kingmidas": "Kral Midas",
+    "lyra": "Lyra",
+    "nicholas": "Nicholas",
+    "miriel": "Miriel",
+    "bishop": "Piskopos",
+    "shady_dealer": "Golgeli Satici"
+  },
+  "encounter_tips": {
+    "shadydealer1Tip": "Reddet",
+    "shadydealer2Tip": "Golgeli Anlasma",
+    "priest1Tip": "+%100 Maksimum HP",
+    "priest2Tip": "HP + Gelir",
+    "blacksmith1Tip": "Koruma Kazanin",
+    "blacksmith2Tip": "Takviye Silahi",
+    "homebrewer1Tip": "Rastgele Siseler",
+    "homebrewer2Tip": "Evde Bira Kazanin",
+    "pirate1Tip": "Kanca Kazan",
+    "pirate2Tip": "Kadeh Kazan",
+    "potionseller1Tip": "Silah Takviyesi Iksiri",
+    "potionseller2Tip": "Deger Iksiri",
+    "shieldbearer1Tip": "Cankurtaran Kazan",
+    "shieldbearer2Tip": "Kalkan'a Coklu Yayin",
+    "traveller1Tip": "Ucretsiz Tekrarlar",
+    "traveller2Tip": "Bulut Siseleri",
+    "warrior1Tip": "Silahlara DMG",
+    "warrior2Tip": "Silah Ganimeti",
+    "elvenarcher1Tip": "Topcu Yuvasi",
+    "elvenarcher2Tip": "Yay Kazan",
+    "elder1Tip": "Aninda XP",
+    "elder2Tip": "XP'yi olceklendirme",
+    "enchanter1Tip": "Epic'i kesfedin",
+    "enchanter2Tip": "Nadir Ogeyi Yukselt",
+    "potionshop1Tip": "Iksir Calmak",
+    "potionshop2Tip": "Iksir Dukkani",
+    "sage1Tip": "Iyilesme Kazanin",
+    "sage2Tip": "Canlilik Yuvasi",
+    "salesman1Tip": "Indirimdeki Urunler",
+    "salesman2Tip": "Daha Ucuz Yeniden Kayitlar",
+    "chronomancer1Tip": "Zaman Kolyesi",
+    "chronomancer2Tip": "Zaman Tonigi",
+    "cleric1Tip": "Hayatlari Geri Yukle",
+    "cleric2Tip": "Maksimum HP",
+    "carmen1Tip": "Sansi Artirin",
+    "carmen2Tip": "Bekleme Surelerini Azaltin",
+    "celestia1Tip": "Ogeyi Kopyala",
+    "celestia2Tip": "2 Yildizli Ogeyi Yukselt",
+    "vlado1Tip": "Lanetli Oge",
+    "vlado2Tip": "Nightquill'i kazan",
+    "alderos1Tip": "Epic veya Asagisini Yukselt",
+    "alderos2Tip": "Slot Takviyeleri",
+    "kingmidas1Tip": "Hazine Kazan",
+    "kingmidas2Tip": "Rastgele Nimet",
+    "lyra1Tip": "Derin Dondurucu",
+    "lyra2Tip": "Ayaz Hediye",
+    "miriel1Tip": "Altin",
+    "miriel2Tip": "Destansi Oge",
+    "bishop1Tip": "Takviye Ogeleri",
+    "bishop2Tip": "Sansli Tekrarlar"
+  },
+  "slot_buffs": {
+    "pandoraName": "Pandora'nin Yuvasi",
+    "pandoraText1": "Gunun Baslangici: Bu esyanin sade bir kopyasini alin (Pandora'nin Kutusu haric).",
+    "pandoraText2": "Gunun Baslangici: Bu ogenin {stat} duz kopyasini kazanin (Pandora'nin Kutusu haric).",
+    "bleedName": "Tasma Yuvasi",
+    "bleedText": "Bu yuva +{stat} Kanama saglar.",
+    "nightName": "Gece Yuvasi",
+    "nightText": "Savas Baslangici efektleri burada iki kez tetiklenir.",
+    "burnName": "Yazma Yuvasi",
+    "burnText": "Bu yuva +{stat} Yakma saglar. (4 gunde bir +2)",
+    "critName": "Kritik Yuvasi",
+    "critText": "Bu yuva +%{stat} kritik sansi verir.",
+    "dmgName": "Hasar Yuvasi",
+    "dmgText": "Bu yuva +{stat} hasar verir. (Her 3 gunde bir +3)",
+    "healName": "Iyilesme Yuvasi",
+    "healText": "Bu yuva +{stat} Iyilestirme saglar. (Her 3 gunde bir +5)",
+    "multicastName": "Coklu Yayin Yuvasi",
+    "multicastText": "Bu yuva +1 Coklu Yayin saglar.",
+    "poisonName": "Zehir Yuvasi",
+    "poisonText": "Bu yuva +{stat} Zehir kazandirir. (4 gunde bir +2)",
+    "shieldName": "Kalkan Yuvasi",
+    "shieldText": "Bu yuva +{stat} Kalkan saglar. (Her 3 gunde bir +5)",
+    "shockName": "Sok Yuvasi",
+    "shockText": "Bu yuva +{stat} Sok verir.",
+    "magicName": "Sihirli Yuva",
+    "magicText": "Buradaki Spells ve Magic ogelerinin CD'si %25 azaltilmistir.",
+    "hexName": "Altigen Yuvasi",
+    "hexText": "Her gun, bu slot kalici olarak rastgele bir zayiflatma saglar.",
+    "meleeName": "Yakin Dovus Yuvasi",
+    "meleeText": "Buradaki yakin dovus esyasi +%25 hasara sahiptir.",
+    "vitalityName": "Canlilik Yuvasi",
+    "vitalityText": "Ilk 3 tetikleyici: Buradaki iyilestirme ayni zamanda Maksimum HP de kazandirir.",
+    "artilleryName": "Topcu Yuvasi",
+    "artilleryText": "Buradaki menzilli esya 2 ekstra ok atar (10 hasar).",
+    "midasSlotName": "Midas'in Yuvasi",
+    "midasSlotText": "Her gun bu esyanin satis degerini 25 artirin.",
+    "wildSlotName": "Vahsi Slot",
+    "wildSlotText": "Her gun buradaki ogeyi rastgele bir ogeye donusturun.",
+    "timeSlotName": "Zaman Araligi",
+    "timeSlotText": "Her gun, esyanin bekleme suresini kalici olarak %5 azaltin."
+  },
+  "rarities": {
+    "common": "Ortak",
+    "rare": "Nadir",
+    "epic": "Destansi",
+    "legendary": "Efsanevi",
+    "cursed": "Lanetli",
+    "forged": "Dovme",
+    "special": "Ozel"
+  },
+  "types": {
+    "types": "Turler",
+    "mixed": "Karisik",
+    "all": "Hepsi",
+    "arcane": "Gizemli",
+    "crystal": "Kristal",
+    "dark": "Karanlik",
+    "elven": "Elf",
+    "flame": "Alev",
+    "frosty": "Ayaz",
+    "holy": "Kutsal",
+    "moon": "Ay",
+    "neutral": "Notr",
+    "other": "Diger",
+    "random": "Rastgele",
+    "storm": "Firtina",
+    "witch": "Cadi",
+    "artifact": "eser",
+    "amulet": "Muska",
+    "warfare": "Harp",
+    "axe": "Balta",
+    "orb": "Kure",
+    "bow": "Yay",
+    "candy": "Seker",
+    "dagger": "Hancer",
+    "light": "Isik",
+    "mace": "Topuz",
+    "material": "Malzeme",
+    "medium": "Orta",
+    "potion": "Iksir",
+    "vial": "Flakon",
+    "essence": "Oz",
+    "lesser_potion": "Daha Az Iksir",
+    "major_potion": "Buyuk Iksir",
+    "present": "Mevcut",
+    "relic": "Kalinti",
+    "shield": "Kalkan",
+    "spear": "Mizrak",
+    "spell": "Buyu",
+    "magic": "Buyu",
+    "sword": "Kilic",
+    "dragon": "Ejderha",
+    "ring": "Yuzuk"
+  },
+  "effects": {
+    "poison": "Zehir: Saniye basina X HSR verir.",
+    "crit": "Kritik: 2 kat hasar icin % sans.",
+    "burn": "Yakma: 0,5 saniyede bir X HSR verir (asagi isaretler).",
+    "shield": "Kalkan: X DMG'yi engeller (zehir haric).",
+    "bleed": "Kanama: Dusmanlar esyalarla vuruldugunda fazladan *bleed* HSR alir.",
+    "heal": "Iyilesme: X HP'yi yeniler.",
+    "multicast": "Cok noktaya yayin: Oge X ek kez tetikler.",
+    "shock": "Sok: Saniye basina *{dmg}* HSR verir (asagi isaretler).",
+    "charges": "Yukler: Oge yalnizca X kez tetiklenebilir."
+  },
+  "item": {
+    "recharge_rod": {
+      "name": "Sarj Cubugu",
+      "texts": [
+        "Tetiklendiginde: Sagdaki ogenin 1 yukunu yenileyin.",
+        "Tetiklendiginde: Sagdaki ogeyi tamamen sarj edin.",
+        "Tetiklendiginde: Ogeyi kalici olarak sagdaki +1 Maksimum Yuke verir.",
+        "Sagdaki ogenin sinirsiz ucreti vardir."
+      ]
+    },
+    "warbow": {
+      "name": "Savas Yayi",
+      "texts": [
+        "Savasin Baslangici: Benzersiz yay basina kalici olarak +2 Hasar kazanirsiniz.",
+        "Savasin Baslangici: Benzersiz yay basina kalici olarak +4 Hasar kazanirsiniz.",
+        "Savasin Baslangici: Benzersiz yay basina kalici olarak +4 Hasar ve Kritik Sansi kazanirsiniz.",
+        "Savasin Baslangici: Benzersiz yay basina kalici olarak +8 Hasar, Kritik ve Coklu Yayin kazanirsiniz."
+      ]
+    },
+    "launcher": {
+      "name": "Baslatici",
+      "texts": [
+        "Tetiklendiginde: Baska bir rastgele yay tetikleyin.",
+        "Tetiklendiginde: Diger 2 rastgele yayi tetikleyin.",
+        "Tetiklendiginde: Diger 3 rastgele yayi tetikleyin ve onlara kalici olarak +2 HSR verin.",
+        "Tetiklendiginde: Diger yaylarinizi tetikleyin ve onlara kalici olarak +10 HSR verin."
+      ]
+    },
+    "dragon_s_edge": {
+      "name": "Ejderhanin Cagrisi",
+      "texts": [
+        "Tetiklendiginde: Yalnizca benzersiz yaylariniz varsa, diger yaylarinizi 2 kez tetikleyin.",
+        "Tetiklendiginde: Yalnizca benzersiz yaylariniz varsa, diger yaylarinizi 4 kez tetikleyin.",
+        "Tetiklendiginde: Diger yaylarinizi 4 kez tetikleyin ve onlara +5 ilave hasar verin.",
+        "Tetiklendiginde: Diger yaylarinizi 8 kez tetikleyin ve onlara kalici olarak +10 hasar verin."
+      ]
+    },
+    "blue_present": {
+      "name": "Mavi Hediye",
+      "texts": [
+        "Mavi bir sey icerir.",
+        "Hediyeleri uce katlayamazsiniz hahaha. Ama kontrol ettigin icin sana saygi duyuyorum.",
+        "Bu artik sikici olmaya basladi...",
+        "NE ISTIYORSUN"
+      ]
+    },
+    "leftover_package": {
+      "name": "Kalan Paket",
+      "texts": [
+        "Rastgele ogeler icerir.",
+        "Hediyeleri uce katlayamazsiniz hahaha. Ama kontrol ettigin icin sana saygi duyuyorum.",
+        "Bu artik sikici olmaya basladi...",
+        "NE ISTIYORSUN"
+      ]
+    },
+    "shiny_present": {
+      "name": "Parlak Hediye",
+      "texts": [
+        "Parlak bir sey icerir.",
+        "Hediyeleri uce katlayamazsiniz hahaha. Ama kontrol ettigin icin sana saygi duyuyorum.",
+        "Bu artik sikici olmaya basladi...",
+        "NE ISTIYORSUN"
+      ]
+    },
+    "special_present": {
+      "name": "Ozel Hediye",
+      "texts": [
+        "Ozel bir sey icerir.",
+        "Hediyeleri uce katlayamazsiniz hahaha. Ama kontrol ettigin icin sana saygi duyuyorum.",
+        "Bu artik sikici olmaya basladi...",
+        "NE ISTIYORSUN"
+      ]
+    },
+    "green_present": {
+      "name": "Yesil Hediye",
+      "texts": [
+        "Yesil bir sey icerir.",
+        "Hediyeleri uce katlayamazsiniz hahaha. Ama kontrol ettigin icin sana saygi duyuyorum.",
+        "Bu artik sikici olmaya basladi...",
+        "NE ISTIYORSUN"
+      ]
+    },
+    "purple_present": {
+      "name": "Mor Hediye",
+      "texts": [
+        "Mor bir sey iceriyor.",
+        "Hediyeleri uce katlayamazsiniz hahaha. Ama kontrol ettigin icin sana saygi duyuyorum.",
+        "Bu artik sikici olmaya basladi...",
+        "NE ISTIYORSUN"
+      ]
+    },
+    "red_present": {
+      "name": "Kirmizi Hediye",
+      "texts": [
+        "Kirmizi bir sey icerir.",
+        "Hediyeleri uce katlayamazsiniz hahaha. Ama kontrol ettigin icin sana saygi duyuyorum.",
+        "Bu artik sikici olmaya basladi...",
+        "NE ISTIYORSUN"
+      ]
+    },
+    "fragile_present": {
+      "name": "Kirilgan Hediye",
+      "texts": [
+        "Rastgele siseler icerir.",
+        "Hediyeleri uce katlayamazsiniz hahaha. Ama kontrol ettigin icin sana saygi duyuyorum.",
+        "Bu artik sikici olmaya basladi...",
+        "NE ISTIYORSUN"
+      ]
+    },
+    "turnbound_ring": {
+      "name": "Donus Halkasi",
+      "texts": [
+        "Gunun Baslangici: Kalici olarak +5 hasar kazanirsiniz.",
+        "Gunun Baslangici: Kalici olarak +10 hasar kazanirsiniz.",
+        "Gunun Baslangici: Kalici olarak +10 hasar ve %10 kritik sansi kazanirsiniz.",
+        "Gunun Baslangici: Kalici olarak +20 hasar, %20 kritik sansi ve +2 Coklu Yayin kazanirsiniz."
+      ]
+    },
+    "pandoras_box": {
+      "name": "Pandora'nin Kutusu",
+      "texts": [
+        "Tetiklendiginde: Buradan Pandora'nin Yuvasini kazanin (her gun bir ogeyi kopyalar).",
+        "Tetiklendiginde: Burada Pandora'nin Yuvasini kazanin veya yukseltin.",
+        "Tetiklendiginde: Burada Pandora'nin Yuvasini iki kez kazanin veya yukseltin.",
+        "Tetiklendiginde: Burada Pandora'nin Yuvasini uc kez kazanin veya yukseltin."
+      ]
+    },
+    "crook": {
+      "name": "Dolandirici",
+      "texts": [
+        "Bu kritik vurusta rastgele bir Kucuk Iksir kazanin.",
+        "Bu kritik vurusta, rastgele 2 adet Kucuk Iksir kazanin.",
+        "Bu kritik vurusta 3 rastgele Sise kazanin.",
+        "Bu kritik vurusta 3 rastgele Iksir kazanin."
+      ]
+    },
+    "nightbloom": {
+      "name": "gece cicegi",
+      "texts": [
+        "Iksir kullandiginizda kalici olarak +1 Kalkan kazanirsiniz.",
+        "Iksir kullandiginizda kalici olarak +2 Kalkan kazanirsiniz.",
+        "Iksir kullandiginizda kalici olarak +3 Kalkan ve +1 Iyilesme kazanirsiniz.",
+        "Iksir kullandiginizda kalici olarak +10 Kalkan ve +10 Iyilesme kazanirsiniz."
+      ]
+    },
+    "brew_today": {
+      "name": "Bugun Demle",
+      "texts": [
+        "Tetiklendiginde: Rastgele bir Sise kazanin.",
+        "Tetiklendiginde: 2 rastgele Sise kazanin.",
+        "Tetiklendiginde: 2 rastgele Normal Iksir kazanin.",
+        "Tetiklendiginde: 4 rastgele Iksir kazanin."
+      ]
+    },
+    "wicked_staff": {
+      "name": "Kotu Personel",
+      "texts": [
+        "Bu konuda iksir kullanildiginda kalici olarak +5 hasar kazanirsin.",
+        "Bunun uzerinde iksir kullanildiginda kalici olarak +10 hasar kazanirsin.",
+        "Bunun uzerinde iksir kullanildiginda kalici olarak +20 hasar kazanirsin.",
+        "Bunun uzerinde iksir kullanildiginda kalici olarak +50 hasar kazanirsin."
+      ]
+    },
+    "simple_curses": {
+      "name": "Basit Lanetler",
+      "texts": [
+        "Tetiklendiginde: Sahip oldugu benzersiz zayiflatma basina 1 rastgele daha az iksir kazanin.",
+        "Tetiklendiginde: Sahip oldugu benzersiz zayiflatma basina 2 rastgele daha az iksir kazanin.",
+        "Tetiklendiginde: Sahip oldugu benzersiz zayiflatma basina 2 rastgele sise kazanin.",
+        "Tetiklendiginde: Sahip oldugu benzersiz zayiflatma basina 2 rastgele iksir kazanin."
+      ]
+    },
+    "candle": {
+      "name": "Mum",
+      "texts": [
+        "Tetiklendiginde: Bir Balmumu yigini kazanin. Iksirler Balmumu tuketerek diger Cadi esyalariniza +2 HSR kazandirir.",
+        "Tetiklendiginde: 2 adet Balmumu yigini kazanin. Iksirler Balmumu tuketerek diger Cadi esyalariniza +4 HSR kazandirir.",
+        "Tetiklendiginde: 3 adet Balmumu yigini kazanin. Iksirler Balmumu tuketerek diger Cadi esyalariniza +8 HSR kazandirir.",
+        "Iksirler diger Cadi esyalariniza +20 HSR kazandirir."
+      ]
+    },
+    "potion_belt": {
+      "name": "Iksir Kemeri",
+      "texts": [
+        "Gunun Baslangici: Rastgele bir sise kazanin.",
+        "Gunun Baslangici: 2 rastgele sise kazanin.",
+        "Gunun Baslangici: 3 rastgele iksir kazanin.",
+        "Gunun Baslangici: 10 rastgele iksir kazanin."
+      ]
+    },
+    "cauldron": {
+      "name": "kazan",
+      "texts": [
+        "Tetiklendiginde: Cadi ogesi basina +1 icerik kazanin. 20 yukte rastgele bir iksir kazanin.",
+        "Tetiklendiginde: Cadi ogesi basina +2 icerik kazanin. 20 yukte rastgele bir iksir kazanin.",
+        "Tetiklendiginde: Cadi ogesi basina +4 icerik kazanin. 20 yukte rastgele bir iksir kazanin.",
+        "Tetiklendiginde: Cadi ogesi basina +1 rastgele iksir kazanin."
+      ]
+    },
+    "wand": {
+      "name": "Degnek",
+      "texts": [
+        "Bu konuda bir iksir kullanildiginda kalici olarak +1 coklu yayin kazanirsiniz.",
+        "Bu konuda bir iksir kullanildiginda kalici olarak +2 multicast kazanirsiniz.",
+        "Bu konuda bir iksir kullanildiginda kalici olarak +4 multicast kazanirsiniz.",
+        "Bu konuda bir iksir kullandiginizda kalici olarak +4 coklu yayin ve +15 hasar kazanin."
+      ]
+    },
+    "lightning_to_go": {
+      "name": "Yildirim Gidecek",
+      "texts": [
+        "",
+        "",
+        "Bu iki kez sok uygular.",
+        "Bu 4 kez sok uygular."
+      ]
+    },
+    "outdoor_knife": {
+      "name": "Dis Mekan Bicagi",
+      "texts": [
+        "Savasin Baslangici: Firtina ogesi basina +3 ilave hasar kazanin.",
+        "Savasin Baslangici: Firtina ogesi basina +6 ilave hasar kazanin.",
+        "Savasin Baslangici: Firtina ogesi basina +9 bonus hasar ve +6 bonus kritik sansi kazanin.",
+        "Savasin Baslangici: Firtina ogesi basina kalici olarak +15 hasar ve kritik sansi kazanin."
+      ]
+    },
+    "morning_star": {
+      "name": "Sabah Yildizi",
+      "texts": [
+        "Her 2 Tetikleyicide: Sok hasarinizi kalici olarak 2 artirir.",
+        "Her 2 Tetikleyicide: Sok hasarinizi kalici olarak 4 artirir.",
+        "Tetiklendiginde: Sok hasarinizi kalici olarak 4 artirir.",
+        "Tetiklendiginde: Sok hasarinizi kalici olarak 10 artirir."
+      ]
+    },
+    "storm_pike": {
+      "name": "Firtina Yolu",
+      "texts": [
+        "Tetiklendiginde: Kalici olarak +1 Sok kazanirsin.",
+        "Tetiklendiginde: Kalici olarak +2 Sok kazanirsin.",
+        "Tetiklendiginde: Kalici olarak +3 Sok kazanir ve sok hasarini +5 artirir.",
+        "Tetiklendiginde: Kalici olarak +4 Sok kazanirsin ve sok hasarini +20 arttirirsin."
+      ]
+    },
+    "storm_guard": {
+      "name": "Firtina Muhafizi",
+      "texts": [
+        "Tetiklendiginde: Sok hasarini kalici olarak +2 artirir.",
+        "Tetiklendiginde: Sok hasarini kalici olarak +4 artirir.",
+        "Tetiklendiginde: Sok hasarini kalici olarak +8 artirir.",
+        "Tetiklendiginde ve Savasin Baslangicinda: Sok hasarini kalici olarak +20 artirir."
+      ]
+    },
+    "staff_of_zeus": {
+      "name": "Zeus'un Asasi",
+      "texts": [
+        "Yanik %25 daha hizli gerceklesir. Sok iki kez tetiklenir.",
+        "Yanik %50 daha hizli gerceklesir. Sok uc kez tetiklenir.",
+        "Yanik %75 daha hizli gerceklesir. Sok 4 kez tetiklenir.",
+        "Yanik %150 daha hizli gerceklesir. Sok aninda tetiklenir."
+      ]
+    },
+    "tempest": {
+      "name": "firtina",
+      "texts": [
+        "Tetiklendiginde: Dusman uzerinde bir Sok yiginini tetikler.",
+        "Tetiklendiginde: Dusman uzerinde 2 Sok yuku tetiklenir.",
+        "Tetiklendiginde: Dusman uzerinde 3 Sok yuku tetiklenir.",
+        "Tetiklendiginde: Dusman uzerinde 4 Sok yuku tetiklenir."
+      ]
+    },
+    "diamond_axe": {
+      "name": "Elmas Balta",
+      "texts": [
+        "Asagidaki ogenin her 10 tetiklenmesinde: +2 ilave kanama ve +2 ilave Sok kazanirsiniz.",
+        "Asagidaki ogenin her 10 tetiklenmesinde: +4 ilave kanama ve +4 ilave Sok kazanirsiniz.",
+        "Asagidaki ogenin her 10 tetiklenmesinde: +6 bonus kanama +6 bonus Sok kazanin.",
+        "Asagidaki ogelerin her tetiklenmesinde: Kalici olarak +1 kanama ve Sok kazanirsiniz."
+      ]
+    },
+    "skybolt": {
+      "name": "Skybolt",
+      "texts": [
+        "Sok dusmanda tetiklendiginde bunu tetikleyin. Bu Sok kazandiramaz.",
+        "Sok dusmanda tetiklendiginde bunu iki kez tetikleyin. Bu Sok kazandiramaz.",
+        "Sok dusmanda tetiklendiginde, bunu uc kez tetikleyin.",
+        "Sok dusmanda tetiklendiginde bunu 6 kez tetikleyin."
+      ]
+    },
+    "arcane_mace": {
+      "name": "Buyulu Topuz",
+      "texts": [
+        "",
+        "",
+        "Tetiklendiginde: Kalici olarak rastgele bir zayiflatma kazanirsiniz.",
+        "Tetiklendiginde: Kalici olarak 2 rastgele zayiflatma kazanin."
+      ]
+    },
+    "voidspike": {
+      "name": "Bosluk sivri ucu",
+      "texts": [
+        "Bir zayiflatma uyguladiginizda +2 ilave hasar kazanirsiniz.",
+        "Bir zayiflatma uyguladiginizda +4 ilave hasar kazanirsiniz.",
+        "Bir zayiflatma uyguladiginizda +8 ilave hasar kazanirsiniz.",
+        "Bir zayiflatma uyguladiginizda kalici olarak +8 hasar kazanirsiniz."
+      ]
+    },
+    "arcane_cleaver": {
+      "name": "Esrarli Satir",
+      "texts": [
+        "",
+        "",
+        "Tetiklendiginde: Kalici olarak 2 rastgele zayiflatma kazanin.",
+        "Tetiklendiginde: Kalici olarak 4 rastgele zayiflatma kazanin."
+      ]
+    },
+    "wild_magic": {
+      "name": "Vahsi Buyu",
+      "texts": [
+        "Savasin Baslangici: Sagdaki ogeyi kalici olarak rastgele duz bir ogeye donusturun.",
+        "Savasin Baslangici: Sagdaki ogeyi kalici olarak rastgele bir 1 Yildizli ogeye donusturun.",
+        "Savasin Baslangici: Sagdaki ogeyi kalici olarak rastgele bir 2 Yildizli ogeye donusturun.",
+        "Savasin Baslangici: Sagdaki ogeyi kalici olarak rastgele bir 3 Yildizli ogeye donusturun."
+      ]
+    },
+    "runic_shield": {
+      "name": "Runik Kalkan",
+      "texts": [
+        "",
+        "",
+        "Tetiklendiginde: Kalici olarak +1 rastgele zayiflatma kazanirsin.",
+        "Tetiklendiginde: Arcane ogesi basina kalici olarak +1 rastgele zayiflatma kazanirsiniz."
+      ]
+    },
+    "arcane_orb": {
+      "name": "Buyulu Kure",
+      "texts": [
+        "Tetiklendiginde: Arcane esyasina kalici olarak +1 rastgele zayiflatmanin altinda verir.",
+        "Tetiklendiginde: Arcane esyasina kalici olarak iki kez +1 rastgele zayiflatma verir.",
+        "Tetiklendiginde: Arcane esyasina 4 kez kalici olarak +1 rastgele zayiflatma verir.",
+        "Tetiklendiginde: Arcane esyasina kalici olarak +1'in altindaki rastgele debuff'i 6 kez verin ve onu tetikleyin."
+      ]
+    },
+    "void_stinger": {
+      "name": "Hiclik Ignesi",
+      "texts": [
+        "Bir zayiflatma uyguladiginizda kalici olarak +1 hasar kazanirsiniz.",
+        "Bir zayiflatma uyguladiginizda kalici olarak +2 hasar kazanirsiniz.",
+        "Bir zayiflatma uyguladiginizda kalici olarak +4 hasar kazanirsiniz.",
+        "Bir zayiflatma uyguladiginizda kalici olarak +5 hasar ve rastgele bir zayiflatma kazanirsiniz."
+      ]
+    },
+    "soulsplitter": {
+      "name": "Ruh bolucu",
+      "texts": [
+        "Savasin Baslangici: Sahip oldugu benzersiz zayiflatma basina +2 bonus coklu yayin kazanin.",
+        "Savasin Baslangici: Sahip oldugu benzersiz zayiflatma basina +4 bonus coklu yayin kazanin.",
+        "Savasin Baslangici: Sahip oldugu benzersiz zayiflatma basina +8 bonus coklu yayin ve +5 bonus hasar kazanin.",
+        "Savasin Baslangici: Sahip oldugu benzersiz zayiflatma basina kalici olarak +8 coklu yayin ve +15 HSR kazanirsiniz."
+      ]
+    },
+    "snowflakes": {
+      "name": "Kar taneleri",
+      "texts": [
+        "",
+        "",
+        "Savasin Baslangici: Bekleme suresini kalici olarak 0,2 saniye azaltin",
+        "Savasin Baslangici: Bekleme suresini kalici olarak 0,2 saniye azaltir. Bu iki kez kanamayi uygular."
+      ]
+    },
+    "ruby_knife": {
+      "name": "Yakut Bicak",
+      "texts": [
+        "",
+        "",
+        "Ilk Tetiklemede: Kalici olarak +3 kanama kazanirsiniz.",
+        "Ilk Tetiklemede: Kalici olarak +6 kanama kazanirsiniz."
+      ]
+    },
+    "poison_dagger": {
+      "name": "Zehirli Hancer",
+      "texts": [
+        "",
+        "",
+        "Bu oge 2 kez zayiflatma uygular.",
+        "Bu oge 4 kez zayiflatma uygular."
+      ]
+    },
+    "amethyst_bow": {
+      "name": "Ametist Yay",
+      "texts": [
+        "",
+        "",
+        "Tetiklendiginde: +12 kanama uygulama sansi %10.",
+        "Tetiklendiginde: +1 ilave kanama kazanirsiniz ve %10 oraninda +12 kanama uygulama sansi kazanirsiniz."
+      ]
+    },
+    "topaz_spear": {
+      "name": "Topaz Mizragi",
+      "texts": [
+        "",
+        "",
+        "Savasin Baslangici: 20 kanama uygulayin.",
+        "Savasin Baslangici: 40 kanama uygulayin."
+      ]
+    },
+    "amber": {
+      "name": "kehribar",
+      "texts": [
+        "Tetiklendiginde: Bunun solundaki kristal ogeyi tetikleyin.",
+        "Tetiklendiginde: Bunun solundaki kristal ogeyi iki kez tetikleyin.",
+        "Tetiklendiginde: Bunun solundaki kristal ogeyi uc kez tetikleyin.",
+        "Tetiklendiginde: Kristal ogeyi uc kez sola dogru tetikleyin ve ona kalici olarak +1 kanama verin."
+      ]
+    },
+    "emerald_sword": {
+      "name": "Zumrut Kilic",
+      "texts": [
+        "Savasin Baslangici: Kristal esyalariniza +1 bonus kanama verir.",
+        "Savasin Baslangici: Kristal esyalariniza +2 bonus kanama verin.",
+        "Savasin Baslangici: Kristal esyalariniza +4 bonus kanama verin.",
+        "Savasin Baslangici: Kristal esyalariniza kalici olarak +4 kanama verir."
+      ]
+    },
+    "shardfang": {
+      "name": "Kirikdis",
+      "texts": [
+        "Baska bir oge kanama uyguladiginda bunu tetikleyin. Bu kanama olamaz.",
+        "Baska bir oge kanama uyguladiginda bunu iki kez tetikleyin. Bu kanama olamaz.",
+        "Baska bir oge kanama uyguladiginda bunu uc kez tetikleyin.",
+        "Baska bir oge kanama uyguladiginda, ekstra 5 uygulayin ve bunu 4 kez tetikleyin."
+      ]
+    },
+    "twilight_s_edge": {
+      "name": "Alacakaranligin Siniri",
+      "texts": [
+        "Savasin Baslangici: Kalici olarak +7 hasar kazanirsiniz.",
+        "Savasin Baslangici: Kalici olarak +14 hasar kazanirsiniz.",
+        "Savasin Baslangici: Kalici olarak +28 hasar kazanirsiniz.",
+        "Savasin Baslangici: Kalici olarak +100 hasar kazanirsiniz."
+      ]
+    },
+    "dusk_shield": {
+      "name": "Alacakaranlik Kalkani",
+      "texts": [
+        "Savasin Baslangici: 100 icin Kalkan.",
+        "Savasin Baslangici: 200 icin Kalkan.",
+        "Savasin Baslangici: Maksimum HP'nizin %20'sine esit kalkan.",
+        "Savasin Baslangicinda ve Tetiklendiginde: Maksimum HP'nizin %20'sine esit kalkan."
+      ]
+    },
+    "trident": {
+      "name": "Uc disli mizrak",
+      "texts": [
+        "Savasin Baslangici: 5 kanama uygulayin.",
+        "Savasin Baslangici: 10 kanama uygulayin.",
+        "Savasin Baslangici: 20 kanama uygulayin. Bu, vurusta iki kez kanama hasarini tetikler.",
+        "Savasin Baslangici: 40 kanama uygulayin. Bu, vurusta 4 kez kanama hasarini tetikler."
+      ]
+    },
+    "eclipse": {
+      "name": "Tutulma",
+      "texts": [
+        "Savasin Baslangici: Karanlik esya basina kalici olarak +4 hasar kazanin.",
+        "Savasin Baslangici: Karanlik esya basina kalici olarak +8 hasar kazanirsiniz.",
+        "Savasin Baslangici: Karanlik esya basina kalici olarak +16 hasar kazanin.",
+        "Savasin Baslangici: Karanlik esyalariniza kalici olarak +30 hasar verin."
+      ]
+    },
+    "executioner": {
+      "name": "Cellat",
+      "texts": [
+        "Dusman %15 veya daha az HP'ye ulastiginda onlari aninda infaz edin.",
+        "Dusman %20 veya daha az HP'ye ulastiginda onlari aninda infaz edin.",
+        "Dusman %25 veya daha az HP'ye ulastiginda onlari aninda infaz edin.",
+        "Dusman %40 veya daha az HP'ye ulastiginda onlari aninda infaz edin."
+      ]
+    },
+    "dexecutioner": {
+      "name": "Cellat"
+    },
+    "decay": {
+      "name": "Curume",
+      "texts": [
+        "Savasin Baslangici: 250 hasar verin.",
+        "Savasin Baslangici: 500 hasar verin.",
+        "Savasin Baslangici: 1000 hasar verin.",
+        "Savasin Baslangici: 2000 hasar verin."
+      ]
+    },
+    "cursed_necklace": {
+      "name": "Koyu Kolye",
+      "texts": [
+        "Tetiklendiginde: Ogelerinizin Savas Baslangici efektlerini tetikleyin.",
+        "Tetiklendiginde: Esyalarinizin Savas Baslangici efektlerini iki kez tetikleyin.",
+        "Tetiklendiginde: Esyalarinizin Savas Baslangici efektlerini uc kez tetikleyin.",
+        "Tetiklendiginde: Esyalarinizin Savas Baslangici efektlerini 4 kez tetikleyin."
+      ]
+    },
+    "bat_wing": {
+      "name": "Yarasa Kanadi",
+      "texts": [
+        "Savasin Baslangici: Kalici olarak +3 coklu yayin kazanirsiniz.",
+        "Savasin Baslangici: Kalici olarak +6 coklu yayin kazanirsiniz.",
+        "Savasin Baslangici: Kalici olarak +12 coklu yayin ve +25 hasar kazanirsiniz.",
+        "Savasin Baslangici: Kalici olarak bu ogenin cok noktaya yayinina esit hasar kazanin."
+      ]
+    },
+    "nightfall": {
+      "name": "Aksam vakti",
+      "texts": [
+        "Savasin Baslangici: Kalici olarak +25 HSR ve +%15 kritik sansi kazanirsiniz.",
+        "Savasin Baslangici: Kalici olarak +50 HSR ve +%30 kritik sansi kazanirsiniz.",
+        "Savasin Baslangici: Kalici olarak +75 HSR ve +%45 kritik sansi kazanirsiniz.",
+        "Savasin Baslangici: Kalici olarak +150 HSR ve +1 coklu yayin kazanirsiniz."
+      ]
+    },
+    "elven_shield": {
+      "name": "Elf Kalkani",
+      "texts": [
+        "",
+        "",
+        "Savasin Baslangici: Kalici olarak +1 coklu yayin kazanirsiniz.",
+        "Savasin Baslangici: Kalici olarak +3 coklu yayin ve +8 zehir kazanirsiniz."
+      ]
+    },
+    "refined_spear": {
+      "name": "Rafine Mizrak",
+      "texts": [
+        "",
+        "",
+        "Savasin Baslangici: Kalici olarak +12 hasar kazanirsiniz.",
+        "Savasin Baslangicinda ve Tetiklendiginde: Kalici olarak +12 hasar kazanirsiniz."
+      ]
+    },
+    "petal_staff": {
+      "name": "Yaprak Asasi",
+      "texts": [
+        "Ilk 2 Tetiklemede: Kalici olarak +1 zehir kazanirsiniz.",
+        "Ilk 2 Tetiklemede: Kalici olarak +2 zehir kazanirsiniz.",
+        "Ilk 2 Tetiklemede: Kalici olarak +4 zehir kazanirsiniz.",
+        "Tetiklendiginde: Kalici olarak +5 zehir kazanir ve dusmanda zehir hasarini tetikler."
+      ]
+    },
+    "venomstrike": {
+      "name": "Zehir Saldirisi",
+      "texts": [
+        "",
+        "",
+        "Zehir dusmanda tetiklendiginde kalici olarak +1 zehir kazanir.",
+        "Zehir dusmanda tetiklendiginde kalici olarak +3 zehir kazanir."
+      ]
+    },
+    "refined_bow": {
+      "name": "Rafine Yay",
+      "texts": [
+        "Savasin Baslangici: Elf ogesi basina +1 bonus coklu yayin kazanin.",
+        "Savasin Baslangici: Elf ogesi basina +2 bonus coklu yayin kazanin.",
+        "Savasin Baslangici: Elf ogesi basina +4 bonus coklu yayin kazanin.",
+        "Savasin Baslangici: Bunu sonsuza kadar tetikleyin."
+      ]
+    },
+    "elvish_orb": {
+      "name": "Elf Kuresi",
+      "texts": [
+        "Tetiklendiginde: +1'in uzerindeki elf ogesini kalici olarak coklu yayin olarak verin (Bu cok noktaya yayin yapamaz).",
+        "Tetiklendiginde: +2'nin uzerindeki elf ogesini kalici olarak coklu yayin olarak verin (Bu cok noktaya yayin yapamaz).",
+        "Tetiklendiginde: +4'un uzerindeki elf ogesini kalici olarak coklu yayin olarak verin (Bu coklu yayin olamaz).",
+        "Tetiklendiginde: +5'in uzerinde coklu yayina kalici olarak elf ogesi verin ve tetikleyin."
+      ]
+    },
+    "venom_ring": {
+      "name": "Zehir Yuzugu",
+      "texts": [
+        "Tetiklendiginde: Zehir ogesi basina kalici olarak +1 zehir kazanirsin.",
+        "Tetiklendiginde: Zehir esyasi basina kalici olarak +2 zehir kazanirsin.",
+        "Tetiklendiginde: Kalici olarak +16 zehir kazanirsin.",
+        "Tetiklendiginde: Kalici olarak +20 zehir kazanirsin. Bu zehiri iki kez uygular."
+      ]
+    },
+    "wildfire": {
+      "name": "Orman yangini",
+      "texts": [
+        "",
+        "",
+        "Tetiklendiginde: Kalici olarak +1 yanma kazanirsin.",
+        "Tetiklendiginde: Kalici olarak +2 yanma kazanirsin."
+      ]
+    },
+    "flare": {
+      "name": "parlama",
+      "texts": [
+        "Tetiklendiginde: Yakma esyalariniza +1 bonus yakma hakki verin.",
+        "Tetiklendiginde: Yakma esyalariniza +2 bonus yakma hakki verin.",
+        "Tetiklendiginde: Yakma esyalariniza +4 bonus yakma hakki verin.",
+        "Tetiklendiginde: Yanan esyalariniza kalici olarak +2 yanik verin."
+      ]
+    },
+    "molten_bow": {
+      "name": "Erimis Yay",
+      "texts": [
+        "",
+        "",
+        "Savasin Baslangici: Kalici olarak +2 yanik kazanirsiniz.",
+        "Tetiklendiginde: Kalici olarak +1 yanma kazanirsin."
+      ]
+    },
+    "fire_mace": {
+      "name": "Ates Topuzu",
+      "texts": [
+        "",
+        "",
+        "Tetiklendiginde: Kalici olarak +3 yanma kazanirsin.",
+        "Tetiklendiginde: Kalici olarak +6 yanma kazanirsin."
+      ]
+    },
+    "blazing_bull": {
+      "name": "Alevli Boga",
+      "texts": [
+        "Yakma uyguladiginizda o kadar bonus kalkan kazanirsiniz.",
+        "Yakma uyguladiginizda iki kati kadar bonus kalkan kazanirsiniz.",
+        "Yakma uyguladiginizda fazladan 5 uygulayin ve bonus kalkan olarak iki katini kazanin.",
+        "Yakma uyguladiginizda kalici olarak kalkan miktarinin iki katini kazanirsiniz."
+      ]
+    },
+    "fire_orb": {
+      "name": "Ates Kuresi",
+      "texts": [
+        "Tetiklendiginde: Alev ogesini kalici olarak sagdaki +2 yaniga verir.",
+        "Tetiklendiginde: Alev ogesini kalici olarak sagdaki +4 yaniga verir.",
+        "Tetiklendiginde: Alev ogesini kalici olarak sagdaki +4 yanmaya verin ve onu tetikleyin.",
+        "Tetiklendiginde: Alev ogesini kalici olarak sagdaki +8 yanmaya verin ve iki kez tetikleyin."
+      ]
+    },
+    "flamy_war_axe": {
+      "name": "Atesli Savas Baltasi",
+      "texts": [
+        "Yakma uyguladiginizda o kadar bonus hasar kazanirsiniz.",
+        "Yakma uyguladiginizda bu miktarin iki katini ilave hasar kazanirsiniz.",
+        "Yakma uyguladiginizda kalici olarak o kadar hasar kazanirsiniz.",
+        "Yakma uyguladiginizda kalici olarak iki kat daha fazla hasar kazanirsiniz."
+      ]
+    },
+    "doom_guide": {
+      "name": "Kiyamet Rehberi",
+      "texts": [
+        "",
+        "",
+        "Savasin Baslangici: +500 bonus yakma kazanin.",
+        "Savasin Baslangici: Kalici olarak +500 yanik kazanirsiniz."
+      ]
+    },
+    "icy_axe": {
+      "name": "Buzlu Balta",
+      "texts": [
+        "",
+        "",
+        "Ilk Tetiklemede: Bunu ekstra bir kez tetikleyin.",
+        "Ilk Tetiklemede: Bunu 2 kez daha tetikleyin."
+      ]
+    },
+    "ice_spear": {
+      "name": "Buz Mizragi",
+      "texts": [
+        "Tetiklendiginde: Kalici olarak +%2 kritik sansi kazanirsin.",
+        "Tetiklendiginde: Kalici olarak +%4 kritik sansi kazanirsin.",
+        "Tetiklendiginde: Kalici olarak +%8 kritik sansi ve +4 hasar kazanirsin.",
+        "Tetiklendiginde: Kalici olarak +%16 kritik sansi ve +8 hasar kazanirsin."
+      ]
+    },
+    "coldshot": {
+      "name": "Soguk atis",
+      "texts": [
+        "Baska bir buzlu oge tetiklendiginde bunu tetikleyin.",
+        "Baska bir buzlu oge tetiklendiginde bunu iki kez tetikleyin.",
+        "Baska bir buzlu oge tetiklendiginde bunu 4 kez tetikleyin.",
+        "Baska bir buz gibi oge tetiklendiginde, bunu 5 kez tetikleyin ve +5 bonus HSR kazanin."
+      ]
+    },
+    "glacier": {
+      "name": "Buzul",
+      "texts": [
+        "Bir Frosty esyasi tetiklendiginde, kalici olarak +%2 kritik sansi kazanirsin.",
+        "Bir Frosty esyasi tetiklendiginde kalici olarak +%4 kritik sansi kazanirsin.",
+        "Bir Frosty ogesi tetiklendiginde, kalici olarak +%8 kritik ve +5 HSR kazanirsiniz.",
+        "Bir Frosty ogesi tetiklendiginde, kalici olarak +%16 kritik ve +10 HSR kazanirsiniz."
+      ]
+    },
+    "frozen_orb": {
+      "name": "Dondurulmus Kure",
+      "texts": [
+        "Tetiklendiginde: Diger Frosty ogelerinizi tetikleyin.",
+        "Tetiklendiginde: Diger Frosty ogelerinizi iki kez tetikleyin.",
+        "Tetiklendiginde: Diger Frosty ogelerinizi uc kez tetikleyin.",
+        "Tetiklendiginde: Diger Frosty esyalarinizi 4 kez tetikleyin ve onlara +%50 bonus kritik verin."
+      ]
+    },
+    "frostbound": {
+      "name": "Donmaya yuz tutmus",
+      "texts": [
+        "Bir esya kritik vurus yaptiginda, kalici olarak +2 hasar kazanirsin.",
+        "Bir esya kritik vurus yaptiginda, kalici olarak +4 hasar kazanirsin.",
+        "Bir esya kritik vurus yaptiginda kalici olarak +8 hasar kazanir.",
+        "Bir esya kritik vurus yaptiginda, tum esyalariniza kalici olarak +8 hasar verin."
+      ]
+    },
+    "sapphire_amulet": {
+      "name": "Safir Muska",
+      "texts": [
+        "Kritik vurus hasarinizi x2'den x3'e artirir.",
+        "Kritik vurus hasarinizi x2'den x4'e artirir.",
+        "Kritik vurus hasarinizi x2'den x5'e artirir.",
+        "Kritik vurus hasarinizi x2'den x6'ya artirir."
+      ]
+    },
+    "winter_s_embrace": {
+      "name": "Kisin Kucaklasmasi",
+      "rarity": "efsanevi",
+      "texts": [
+        "Kritik vurus yaptiginizda +1 bonus coklu yayin kazanirsiniz.",
+        "Kritik vurus yaptiginizda +2 bonus coklu yayin kazanirsiniz.",
+        "Kritik vurus yaptiginizda kalici olarak +2 coklu yayin kazanirsiniz.",
+        "Kritik vurus yaptiginizda kalici olarak +2 coklu yayin ve +2 hasar kazanirsiniz."
+      ]
+    },
+    "paladin_s_hammer": {
+      "name": "Paladin'in Cekici",
+      "texts": [
+        "Tetiklendiginde: Eger 25'ten fazla zayiflaticiniz varsa, 5 tanesini temizleyin.",
+        "Tetiklendiginde: Eger 25'ten fazla zayiflaticiniz varsa, 10 tanesini temizleyin.",
+        "Tetiklendiginde: Tum zayiflatmalardan 15 tanesini temizleyin.",
+        "Tetiklendiginde: Tum zayiflatmalardan 20 tanesini temizler ve kalici olarak +5 iyilestirme kazanirsin."
+      ]
+    },
+    "divine_axe": {
+      "name": "Ilahi Balta",
+      "texts": [
+        "Her 3 Tetikleyicide: Her zayiflatmanin 5'ini temizleyin.",
+        "Her 3 Tetikleyicide: Her zayiflatmanin 10'unu temizleyin.",
+        "Her 3 Tetikleyicide: Her zayiflatmanin 20 tanesini temizleyin.",
+        "Tetiklendiginde: Her zayiflatmanin 20 tanesini temizleyin."
+      ]
+    },
+    "healing_word": {
+      "name": "Sifali Kelime",
+      "texts": [
+        "Tetiklendiginde: +3 ilave iyilestirme kazanirsin.",
+        "Tetiklendiginde: +6 ilave iyilestirme kazanirsin.",
+        "Tetiklendiginde: +12 ilave iyilestirme kazanirsin.",
+        "Tetiklendiginde: Kalici olarak +12 iyilestirme kazanirsin."
+      ]
+    },
+    "lightblade": {
+      "name": "Isik kilici",
+      "texts": [
+        "",
+        "",
+        "Tetiklendiginde: +200 Maksimum Saglik kazanirsin.",
+        "Tetiklendiginde: +400 Maksimum Saglik kazanirsin."
+      ]
+    },
+    "healer_s_oath": {
+      "name": "Sifacinin Yemini",
+      "texts": [
+        "Baska bir oge iyilestiginde bunu tetikleyin.",
+        "Baska bir oge iyilestiginde bunu iki kez tetikleyin.",
+        "Baska bir oge iyilestiginde +2 bonus iyilestirme kazanin ve bunu uc kez tetikleyin.",
+        "Baska bir oge iyilestiginde, kalici olarak +3 iyilestirme kazanirsiniz ve bunu 4 kez tetiklersiniz."
+      ]
+    },
+    "solaris": {
+      "name": "Solaris",
+      "texts": [
+        "",
+        "",
+        "Savasin Baslangici: Kalici olarak +1 coklu yayin ve +10 iyilestirme kazanirsiniz.",
+        "Savasin Baslangici: Kalici olarak +2 coklu yayin ve +20 iyilestirme kazanirsiniz."
+      ]
+    },
+    "holy_sigil": {
+      "name": "Kutsal Muhur",
+      "texts": [
+        "Tetiklendiginde: Kutsal ogeyi sola dogru tetikleyin.",
+        "Tetiklendiginde: Kutsal ogeyi sola iki kez tetikleyin.",
+        "Tetiklendiginde: Kutsal ogeyi uc kez sola dogru tetikleyin.",
+        "Tetiklendiginde: Kutsal ogeyi sola dogru 4 kez tetikleyin ve ona kalici olarak +50 iyilestirme verin."
+      ]
+    },
+    "redemption": {
+      "name": "itfa",
+      "texts": [
+        "Iyilestiginizde kalici olarak +1 hasar ve +2 iyilestirme kazanirsiniz.",
+        "Iyilestiginizde kalici olarak +2 hasar ve +4 iyilestirme kazanirsiniz.",
+        "Iyilestiginizde kalici olarak +4 hasar ve +8 iyilestirme kazanirsiniz.",
+        "Iyilestiginizde kalici olarak +4 hasar ve +8 iyilestirme kazanirsiniz. Daha sonra bunu tetikleyin."
+      ]
+    },
+    "protector": {
+      "name": "Koruyucu",
+      "texts": [
+        "Tetiklendiginde: Zayiflaticilarinizin %20'sini temizleyin.",
+        "Tetiklendiginde: Zayiflaticilarinizin %40'ini temizleyin.",
+        "Tetiklendiginde: Zayiflaticilarinizin %60'ini temizleyin.",
+        "Tetiklendiginde: Zayiflaticilarinizin %80'ini temizleyin."
+      ]
+    },
+    "moon_knife": {
+      "name": "Ay Bicagi",
+      "texts": [
+        "Elde edildiginde: Ayrica +16 XP kazanin.",
+        "Elde edildiginde: Ayrica +24 XP kazanin.",
+        "Elde edildiginde: Ayrica +32 XP kazanin.",
+        "Elde edildiginde: Ayrica bir seviye kazanin. Tetiklendiginde: Kalici olarak 2x seviyeye esit HSR kazanirsiniz."
+      ]
+    },
+    "silver_lance": {
+      "name": "Gumus Mizrak",
+      "texts": [
+        "",
+        "",
+        "Tetiklendiginde: 15 ilave hasar verir.",
+        "Tetiklendiginde: 30 ilave hasar verir."
+      ]
+    },
+    "crescentshot": {
+      "name": "Hilal atis",
+      "texts": [
+        "",
+        "",
+        "Tetiklendiginde: +1 ilave hasar kazanirsin.",
+        "Tetiklendiginde: Kalici olarak +2 hasar kazanirsin."
+      ]
+    },
+    "lunar_codex": {
+      "name": "Ay Kodeksi",
+      "texts": [
+        "Seviye atladiginizda kalici olarak +1 coklu yayin kazanirsiniz.",
+        "Seviye atladiginizda kalici olarak +2 coklu yayin kazanirsiniz.",
+        "Seviye atladiginizda kalici olarak +4 coklu yayin kazanirsiniz.",
+        "Seviye atladiginizda kalici olarak +4 coklu yayin ve +25 hasar kazanirsiniz."
+      ]
+    },
+    "lapis_lazuli": {
+      "name": "Lapis Lazuli",
+      "texts": [
+        "Tetiklendiginde: Diger Moon esyalariniza kalici olarak +2 hasar verir.",
+        "Tetiklendiginde: Diger Moon esyalariniza kalici olarak +4 hasar verir.",
+        "Tetiklendiginde: Diger Moon esyalariniza kalici olarak +6 hasar verir.",
+        "Tetiklendiginde: Diger Moon esyalariniza kalici olarak +6 hasar ve +%3 kritik verir."
+      ]
+    },
+    "high_blade": {
+      "name": "Yuksek Bicak",
+      "texts": [
+        "Savasin baslangici: Ay ogesi basina bekleme suresini kalici olarak 0,2 saniye azaltir.",
+        "Savasin baslangici: Ay ogesi basina bekleme suresini kalici olarak 0,4 saniye azaltir.",
+        "Savasin baslangici: Moon ogesi basina kalici olarak +5 hasar kazanin.",
+        "Savasin baslangici: Moon ogesi basina kalici olarak +10 hasar kazanin."
+      ]
+    },
+    "moonstone": {
+      "name": "Aytasi",
+      "texts": [
+        "",
+        "",
+        "Savasin Baslangici: Moon ogesi basina kalici olarak +2 hasar kazanin.",
+        "Savasin Baslangici: Moon ogesi basina kalici olarak +4 hasar kazanin."
+      ]
+    },
+    "moonveil": {
+      "name": "Ay perdesi",
+      "texts": [
+        "Savasin Baslangici: Moon esyalariniza +1 bonus coklu yayin verin.",
+        "Savasin Baslangici: Moon esyalariniza +2 bonus coklu yayin verin.",
+        "Savasin Baslangici: Moon esyalariniza +4 bonus coklu yayin verin.",
+        "Savasin Baslangici: Moon esyalariniza kalici olarak +4 multicast verir."
+      ]
+    },
+    "bone_club": {
+      "name": "Kemik Kulubu",
+      "texts": [
+        "",
+        "",
+        "Tetiklendiginde: Kalici olarak +3 hasar kazanirsin.",
+        "Tetiklendiginde: Kalici olarak +6 hasar kazanirsin."
+      ]
+    },
+    "regular_bow": {
+      "name": "Normal Yay",
+      "texts": [
+        "",
+        "",
+        "Savasin Baslangici: Kalici olarak +3 hasar kazanirsiniz.",
+        "Savasin Baslangici: Eger bu elinizdeki tek esya ise, kalici olarak +15 HSR ve +3 coklu yayin kazanin."
+      ]
+    },
+    "regular_goat": {
+      "name": "Normal Keci"
+    },
+    "sturdy_shield": {
+      "name": "Saglam Kalkan",
+      "texts": [
+        "",
+        "",
+        "Savasin Baslangici: Kalici olarak +10 kalkan kazanirsiniz.",
+        "Savasin Baslangicinda ve Tetiklendiginde: Kalici olarak +10 kalkan kazanirsiniz."
+      ]
+    },
+    "chopper": {
+      "name": "Kiyici",
+      "texts": [
+        "Savasin baslangici: Baltalariniza kalici olarak +4 hasar verin.",
+        "Savasin baslangici: Baltalariniza kalici olarak +8 hasar verin.",
+        "Savasin baslangici: Baltalariniza kalici olarak +16 hasar ve +%10 kritik verin.",
+        "Tetiklendiginde: Baltalariniza kalici olarak +16 hasar ve +%10 kritik verin."
+      ]
+    },
+    "novice_blade": {
+      "name": "Acemi Bicak",
+      "texts": [
+        "",
+        "",
+        "Tetiklendiginde: Dusman kalkaninin %40'ini yok edin.",
+        "Tetiklendiginde: Dusman kalkaninin %80'ini yok edin."
+      ]
+    },
+    "spyglass": {
+      "name": "Durbun",
+      "texts": [
+        "Tetiklendiginde: Bitisik ogelere kalici olarak +%5 kritik sansi verir.",
+        "Tetiklendiginde: Bitisik ogelere kalici olarak +%10 kritik sansi verir.",
+        "Tetiklendiginde: Bitisik ogelere kalici olarak +%20 kritik sansi verir.",
+        "Tetiklendiginde: Bitisik ogelere kalici olarak +%40 kritik ve +10 hasar verir."
+      ]
+    },
+    "sharpsteel": {
+      "name": "Keskin celik",
+      "texts": [
+        "Bu kritik vurusta kalici olarak +1 hasar kazanirsiniz.",
+        "Bu kritik vurus yaptiginda kalici olarak +2 hasar kazanirsin.",
+        "Bu kritik vurus yaptiginda kalici olarak +4 hasar kazanirsin.",
+        "Bu kritik oldugunda esyalariniza kalici olarak +5 hasar verin."
+      ]
+    },
+    "spikey_mace": {
+      "name": "Dikenli Topuz",
+      "texts": [
+        "Savasin Baslangici: Mace basina kalici olarak +5 hasar kazanirsiniz.",
+        "Savasin Baslangici: Mace basina kalici olarak +10 hasar kazanin.",
+        "Savasin Baslangici: Mace basina kalici olarak +15 hasar ve %3 kritik kazanin.",
+        "Savasin Baslangici: Gurz basina kalici olarak +20 hasar ve +%6 kritik kazanin."
+      ]
+    },
+    "brass_knife": {
+      "name": "Pirinc Bicak",
+      "texts": [
+        "Tetiklendiginde: +5 altin kazanin ve bu miktari 1 azaltin.",
+        "Tetiklendiginde: +8 altin kazanin ve bu miktari 1 azaltin.",
+        "Tetiklendiginde: +12 altin ve +2 gelir elde edin, ardindan bu degerleri 1 azaltin.",
+        "Tetiklendiginde: +15 altin ve +4 gelir elde edin, ardindan bu degerleri 1 azaltin."
+      ]
+    },
+    "hunter_s_tome": {
+      "name": "Avcinin Cildi",
+      "texts": [
+        "Tetiklendiginde: Kalici olarak +1 hasar kazanirsin.",
+        "Tetiklendiginde: Kalici olarak +2 hasar kazanirsin.",
+        "Tetiklendiginde: Kalici olarak +3 hasar ve +%5 kritik kazanir.",
+        "Tetiklendiginde: Kalici olarak +6 hasar ve +%10 kritik kazanir."
+      ]
+    },
+    "sword_techniques": {
+      "name": "Kilic Teknikleri",
+      "texts": [
+        "Tetiklendiginde: Sword'a kalici olarak +3'un altinda hasar ve +%5 kritik sansi verir.",
+        "Tetiklendiginde: Sword'a kalici olarak +6'nin altinda hasar ve +%10 kritik sansi verir.",
+        "Tetiklendiginde: Sword'a kalici olarak +10'un altinda hasar ve +%15 kritik sansi verir.",
+        "Tetiklendiginde: Tum kiliclariniza kalici olarak +20 hasar ve +%20 kritik sansi verin."
+      ]
+    },
+    "how_to_grow": {
+      "name": "Nasil Buyuyebilirim?",
+      "texts": [
+        "Tetiklendiginde: Sagdaki Elven esyasina kalici olarak +3 hasar verir.",
+        "Tetiklendiginde: Sagdaki Elven esyasina kalici olarak +6 hasar verir.",
+        "Tetiklendiginde: Sagdaki Elven esyasina kalici olarak +12 hasar verir.",
+        "Tetiklendiginde: Tum Elf esyalariniza kalici olarak +12 hasar verin."
+      ]
+    },
+    "modern_archery": {
+      "name": "Modern Okculuk",
+      "texts": [
+        "Tetiklendiginde: Bow'a kalici olarak +1 multicast verir.",
+        "Tetiklendiginde: Bow'a kalici olarak +2 multicast verir.",
+        "Tetiklendiginde: Tum Yaylariniza kalici olarak +3 coklu yayin verin.",
+        "Tetiklendiginde: Tum Yaylariniza kalici olarak +6 coklu yayin ve +10 hasar verin."
+      ]
+    },
+    "goblet": {
+      "name": "Kadeh",
+      "texts": [
+        "Gun Baslangici: Satis degerini +15 artirin.",
+        "Gun Baslangici: Satis degerini +30 artirin.",
+        "Gun Baslangici: Satis degerini +60 artirin ve +15 Altin uretin.",
+        "Gun Baslangici: Satis degerini +120 artirin ve +30 Altin uretin."
+      ]
+    },
+    "goblet_midas": {
+      "name": "Midas'in Kadehi",
+      "texts": [
+        "Her gun satis degerini +15 artirin. Savasin Baslangici: Satis degerine esit hasar kazanin.",
+        "Her gun satis degerini +30 artirin. Savasin Baslangici: Satis degerine esit hasar kazanin.",
+        "Her gun satis degerini +60 artirin ve +15 Altin kazanin. Savasin Baslangici: Satis degerine esit hasar kazanin.",
+        "Her gun satis degerini +120 artirin ve +30 Altin kazanin. Savasin Baslangici: Satis degerine esit hasar kazanin."
+      ]
+    },
+    "log": {
+      "name": "Gunluk",
+      "rarity": "Ortak",
+      "texts": [
+        "Bu sadece bir gunluk.",
+        "Oldukca kalin bir gunluk.",
+        "Bu gercekten BUYUK bir GUNLUK.",
+        "Tetiklendiginde: 1000 ilave hasar verir. Oturum ac oglum."
+      ]
+    },
+    "mace_study": {
+      "name": "Topuz Calismasi",
+      "texts": [
+        "Tetiklendiginde: Mace'e +1'in altinda bonus coklu yayin verir.",
+        "Tetiklendiginde: Mace'e +2'nin altinda bonus coklu yayin verir.",
+        "Tetiklendiginde: Mace'e +3'un altinda kalici hasar ve +4 bonus coklu yayin verir.",
+        "Tetiklendiginde: Tum Mac'lerinize kalici olarak +4 coklu yayin ve +3 DMG verin."
+      ]
+    },
+    "lifeguard": {
+      "name": "Cankurtaran",
+      "texts": [
+        "Tetiklendiginde: Her zayiflatmanin 2 tanesini temizleyin.",
+        "Tetiklendiginde: Her zayiflatmanin 5 tanesini temizleyin.",
+        "Tetiklendiginde: Her zayiflatmanin 10 tanesini temizleyin.",
+        "Tetiklendiginde: Her zayiflatmanin 30 tanesini temizleyin."
+      ]
+    },
+    "noble_spear": {
+      "name": "Asil Mizrak",
+      "texts": [
+        "",
+        "",
+        "Savasin Baslangici: Kalici olarak +50 hasar kazanirsiniz.",
+        "Savasin Baslangicinda ve Tetiklendiginde: Kalici olarak +50 hasar kazanirsiniz."
+      ]
+    },
+    "hook": {
+      "name": "Kanca",
+      "texts": [
+        "Bu kritik vurusta +2 altin kazanin.",
+        "Bu kritik vurusta +4 altin kazanin.",
+        "Bu kritik vurusta +6 altin kazanin.",
+        "Bu kritik vurusta 2 Kadeh kazanin."
+      ]
+    },
+    "tome_of_blades": {
+      "name": "Bicaklar Kitabi",
+      "texts": [
+        "Savasin Baslangici: En az 3 hanceriniz varsa, +4 bonus coklu yayin kazanin.",
+        "Savasin Baslangici: En az 3 hanceriniz varsa, +8 bonus coklu yayin kazanin.",
+        "Savasin Baslangici: En az 3 hanceriniz varsa, +16 bonus coklu yayin kazanin.",
+        "Dovusun Baslangici: En az 3 hanceriniz varsa, bunu sonsuza kadar tetikleyin."
+      ]
+    },
+    "bulwark": {
+      "name": "Siper",
+      "texts": [
+        "Tetiklendiginde: Kalici olarak +1 kalkan kazanirsin.",
+        "Tetiklendiginde: Kalici olarak +2 kalkan kazanirsin.",
+        "Tetiklendiginde: Kalici olarak +4 kalkan kazanirsin.",
+        "Tetiklendiginde: Kalici olarak +8 kalkan kazanirsin. Savasin Baslangici: Bunu 3 kez tetikleyin."
+      ]
+    },
+    "nugget": {
+      "name": "Pirinc Kalkan",
+      "texts": [
+        "Her 3 Tetiklemede: +2 altin kazanin.",
+        "Her 3 Tetiklemede: +4 altin kazanin.",
+        "Her 3 Tetikleyicide: +4 altin ve +1 gelir kazanin.",
+        "Tetiklendiginde: +4 altin ve +1 gelir elde edin."
+      ]
+    },
+    "woodchopping": {
+      "name": "Agac kesme",
+      "texts": [
+        "Tetiklendiginde: Baltalariniza benzersiz balta basina kalici olarak +3 hasar verin.",
+        "Tetiklendiginde: Baltalariniza benzersiz balta basina kalici olarak +6 hasar verin.",
+        "Tetiklendiginde: Baltalariniza benzersiz balta basina kalici olarak +12 hasar verin.",
+        "Tetiklendiginde: Baltalariniza benzersiz balta basina kalici olarak +24 hasar ve +%5 kritik verin."
+      ]
+    },
+    "conjure_spear": {
+      "name": "Mizrak Buyusu",
+      "texts": [
+        "Tetiklendiginde: Asagidan mizragin sade bir kopyasini kazanin.",
+        "Tetiklendiginde: Asagidaki mizragin 2 normal kopyasini kazanin.",
+        "Tetiklendiginde: Asagidaki mizragin 3 normal kopyasini kazanin.",
+        "Tetiklendiginde: Asagidaki mizragin 6 normal kopyasini kazanin."
+      ]
+    },
+    "midas_diary": {
+      "name": "Midas'in Gunlugu",
+      "texts": [
+        "Bu veya bir hancer tetiklendiginde: +1 altin kazanin.",
+        "Bu veya bir hancer tetiklendiginde: +2 altin kazanin.",
+        "Bu veya bir hancer tetiklendiginde: +3 altin ve +1 gelir elde edin.",
+        "Bu veya bir hancer tetiklendiginde: +6 altin ve +2 gelir elde edin."
+      ]
+    },
+    "razorleaf": {
+      "name": "Jilet yapragi",
+      "texts": [
+        "Baska bir Elf esyasi tetiklendiginde, bu esyanin gecerli bekleme suresinden 1 saniye cikarin.",
+        "Baska bir Elf ogesi tetiklendiginde, bu ogenin mevcut bekleme suresinden 2 saniye cikarin.",
+        "Baska bir Elf ogesi tetiklendiginde bunu tetikleyin ve +1 ilave hasar kazanin.",
+        "Baska bir Elf ogesi tetiklendiginde bunu tetikleyin ve kalici olarak +1 hasar kazanin."
+      ]
+    },
+    "toxins": {
+      "name": "Toksinler",
+      "texts": [
+        "Tetiklendiginde: Dusmanda zehir hasarini tetikler.",
+        "Tetiklendiginde: Dusmanda zehir hasarini iki kez tetikler.",
+        "Tetiklendiginde: Dusmana uc kez zehir hasari verir.",
+        "Tetiklendiginde: Dusmana 4 kez zehir hasari verir."
+      ]
+    },
+    "mythic_rod": {
+      "name": "Efsanevi Cubuk",
+      "texts": [
+        "Tetiklendiginde: Yalnizca benzersiz oge turleriniz varsa, kalici olarak +5 HSR kazanin.",
+        "Tetiklendiginde: Yalnizca benzersiz oge turleriniz varsa, kalici olarak +10 HSR kazanin.",
+        "Tetiklendiginde: Yalnizca benzersiz oge turleriniz varsa, kalici olarak +15 HSR kazanin.",
+        "Tetiklendiginde: Kalici olarak +30 HSR ve +%5 kritik kazanir."
+      ]
+    },
+    "mythic_bonk": {
+      "name": "Michuu'nun Cubugu"
+    },
+    "time_pendant": {
+      "name": "Zaman Kolyesi",
+      "texts": [
+        "Tetiklendiginde: Asagidaki ogenin 1 saniyelik gecerli bekleme suresini kaldirir.",
+        "Tetiklendiginde: Asagidaki ogenin 2 saniyelik mevcut bekleme suresini kaldirir.",
+        "Tetiklendiginde: Asagidaki ogenin 4 saniyelik gecerli bekleme suresini kaldirir.",
+        "Tetiklendiginde: Asagidaki ogeyi tetikleyin."
+      ]
+    },
+    "treasure_chest": {
+      "name": "Hazine Sandigi",
+      "texts": [
+        "Satildiginda: 2 kadeh kazanin.",
+        "Satildiginda: 4 kadeh kazanin.",
+        "Satildiginda: 8 kadeh kazanin.",
+        "Satildiginda: 8 kadeh, 40 altin ve 40 gelir kazanin."
+      ]
+    },
+    "dream_catcher": {
+      "name": "Ruya Yakalayici",
+      "texts": [
+        "Tetiklendiginde: Yukaridaki ogenin bekleme suresini kalici olarak 0,1 saniye azaltir.",
+        "Tetiklendiginde: Yukaridaki ogenin bekleme suresini kalici olarak 0,2 saniye azaltir.",
+        "Tetiklendiginde: Yukaridaki ogenin bekleme suresini kalici olarak 0,4 saniye azaltir.",
+        "Tetiklendiginde: Yukaridaki ogenin bekleme suresini kalici olarak 1 saniyeye ayarlayin."
+      ]
+    },
+    "wardbinder": {
+      "name": "Gardiyan",
+      "texts": [
+        "Tetiklendiginde: Bitisikteki kalkanlari tetikler.",
+        "Tetiklendiginde: Bitisik kalkanlari iki kez tetikleyin.",
+        "Tetiklendiginde: Bitisik kalkanlari 4 kez tetikleyin.",
+        "Tetiklendiginde: Tum kalkanlarinizi 6 kez tetikleyin."
+      ]
+    },
+    "nature_s_call": {
+      "name": "Doganin Cagrisi",
+      "texts": [
+        "Tetiklendiginde: +1 bonus coklu yayinin altindaki ogeyi verin.",
+        "Tetiklendiginde: +2 bonus coklu yayinin altindaki ogeyi verin.",
+        "Tetiklendiginde: +3 bonus coklu yayinin altindaki ogeyi verin.",
+        "Tetiklendiginde: +4'un altindaki ogeyi kalici olarak coklu yayin olarak verin."
+      ]
+    },
+    "life_essence": {
+      "name": "Ejderha Kuresi",
+      "texts": [
+        "Tetiklendiginde: Kalici olarak +50 maksimum saglik kazanirsiniz (bu kritik olabilir!).",
+        "Tetiklendiginde: Kalici olarak +100 maksimum saglik kazanirsiniz (bu kritik olabilir!).",
+        "Tetiklendiginde: Kalici olarak +200 maksimum saglik kazanirsiniz (bu kritik olabilir!).",
+        "Tetiklendiginde: Kalici olarak +400 maksimum saglik ve +8 altin kazanirsiniz (bunlar kritik olabilir!)."
+      ]
+    },
+    "sagon_yorb": {
+      "name": "Sagon Yorb"
+    },
+    "nightquill": {
+      "name": "Gece tuyu",
+      "texts": [
+        "Savas baslangici efektleriniz fazladan bir sureyi tetikler.",
+        "Dovus baslangici efektleriniz fazladan 2 kez tetiklenir.",
+        "Dovus baslangici efektleriniz fazladan 3 kez tetiklenir.",
+        "Dovus baslangici efektleriniz ekstra 6 kez tetiklenir."
+      ]
+    },
+    "astral_hammer": {
+      "name": "Astral Cekic",
+      "texts": [
+        "Savasin baslangici: En az 4 Mac'iniz varsa bekleme suresini 1 saniyeye dusurun.",
+        "Savasin baslangici: En az 4 Mac'iniz varsa bekleme suresini 0,5 saniyeye dusurun.",
+        "Savasin baslangici: Bekleme suresini 0,5 saniyeye dusurun ve Mace basina +3 hasar kazanin.",
+        "Savasin baslangici: +50 hasar kazanin ve bunu sonsuza kadar tetikleyin."
+      ]
+    },
+    "warhorn": {
+      "name": "Savas boynuzu",
+      "texts": [
+        "Tetiklendiginde: Bitisik ogelere, kritik sanslarina esit ilave hasar verin.",
+        "Tetiklendiginde: Bitisik ogelere, kritik sanslarinin iki katina esit ilave hasar verin.",
+        "Tetiklendiginde: Bitisik ogelere, kritik sanslarinin 4 katina esit ilave hasar verin.",
+        "Tetiklendiginde: Tum esyalariniza kritik sanslarinin 6 katina esit ilave hasar verin."
+      ]
+    },
+    "lost_fragment": {
+      "name": "Kayip Parca",
+      "texts": [
+        "Tetiklendiginde: +1 bonus coklu yayinin uzerinde oge verin ve bu ogenin bekleme suresini 4 saniye artirin.",
+        "Tetiklendiginde: +1 bonus coklu yayinin uzerinde oge verin ve bu ogenin bekleme suresini 2 saniye artirin.",
+        "Tetiklendiginde: +1 bonus coklu yayinin uzerindeki ogeyi verin.",
+        "Tetiklendiginde: Kalici olarak +1'in uzerindeki coklu yayina oge verir."
+      ]
+    },
+    "trigem": {
+      "name": "Trigem",
+      "texts": [
+        "Tetiklendiginde: Yalnizca benzersiz oge turleriniz varsa, ogelerinize kalici olarak +5 hasar verin.",
+        "Tetiklendiginde: Yalnizca benzersiz oge turleriniz varsa, ogelerinize kalici olarak +10 hasar verin.",
+        "Tetiklendiginde: Yalnizca benzersiz oge turleriniz varsa, ogelerinize kalici olarak +20 hasar verin.",
+        "Tetiklendiginde: Esyalariniza kalici olarak +40 hasar ve +%15 kritik verin."
+      ]
+    },
+    "cobalt_spear": {
+      "name": "Kobalt Mizragi",
+      "texts": [
+        "Mizraklari buraya surukleyerek tuketin ve hasarlarini ve kritiklerini kalici olarak kazanin.",
+        "Mizraklari buraya surukleyerek tuketin ve hasar ve kritiklerinin iki katini kalici olarak kazanin.",
+        "Mizraklari buraya surukleyerek tuketin ve hasarlarinin ve kritiklerinin 4 katini kalici olarak kazanin.",
+        "Mizraklari buraya surukleyerek tuketin ve hasarlarinin ve kritiklerinin 8 katini kalici olarak kazanin."
+      ]
+    },
+    "warrior_shield": {
+      "name": "Savasci Kalkani",
+      "texts": [
+        "Kalkan kazandiginizda 50 hasar verin.",
+        "Kalkan kazandiginizda 100 hasar verin.",
+        "Kalkan kazandiginizda ekstra 50 puan kazanin ve 200 hasar verin.",
+        "Kalkan kazandiginizda ekstra 200 puan kazanin ve 400 hasar verin."
+      ]
+    },
+    "anvil": {
+      "name": "Ors",
+      "texts": [
+        "Tetiklendiginde: Kilic basina +1 demir yigini kazanirsiniz. 20 yukte: Rastgele bir Forge Blade kazanin.",
+        "Tetiklendiginde: Kilic basina +2 demir yigini kazanirsin. 20 yukte: Rastgele bir Forge Blade kazanin.",
+        "Tetiklendiginde: Kilic basina +3 demir yigini kazanirsin. 20 yukte: Rastgele bir Forge Blade kazanin.",
+        "Tetiklendiginde: Rastgele bir Forge Blade kazanin."
+      ]
+    },
+    "cutlass": {
+      "name": "Pala",
+      "texts": [
+        "Savas sirasinda altin kazandiginizda, kalici olarak iki kat daha fazla hasar kazanirsiniz.",
+        "Savas sirasinda altin kazandiginizda kalici olarak 4 kat hasar kazanirsiniz.",
+        "Savas sirasinda altin kazandiginizda, kalici olarak 4 kat hasar ve +2 altin kazanirsiniz.",
+        "Savas sirasinda altin kazandiginizda, kalici olarak 6 kat hasar ve +4 altin kazanirsiniz."
+      ]
+    },
+    "astralis": {
+      "name": "Astralis",
+      "rarity": "dovme",
+      "texts": [
+        "Savasin Baslangici: Kiliclariniza +1 bonus coklu yayin verin.",
+        "Savasin Baslangici: Kiliclariniza +2 bonus coklu yayin verin.",
+        "Savasin Baslangici: Kiliclariniza +4 bonus coklu yayin verin.",
+        "Savasin Baslangici: Kiliclariniza kalici olarak +4 coklu yayin verin."
+      ]
+    },
+    "a_thousand_cuts": {
+      "name": "Bin Kesim",
+      "rarity": "dovme",
+      "texts": [
+        "Baska bir kilic tetiklendiginde bunu tetikle.",
+        "Baska bir kilic tetiklendiginde bunu iki kez tetikleyin.",
+        "Baska bir kilic tetiklendiginde bunu 4 kez tetikleyin.",
+        "Savasin Baslangici: Kalici olarak +10 hasar kazanin ve bunu sonsuza kadar tetikleyin."
+      ]
+    },
+    "black_rose": {
+      "name": "Siyah Gul",
+      "rarity": "dovme",
+      "texts": [
+        "Savasin Baslangici: Kiliclariniza +%100 ilave kritik sansi ve +20 ilave hasar verin.",
+        "Savasin Baslangici: Kiliclariniza +%200 ilave kritik sansi ve +40 ilave hasar verin.",
+        "Savasin Baslangici: Kiliclariniza +%400 bonus kritik sansi ve +80 bonus hasar verin.",
+        "Savasin Baslangici: Kiliclariniza kalici olarak +%400 kritik sansi ve +80 hasar verin."
+      ]
+    },
+    "harbinger": {
+      "name": "Habercisi",
+      "rarity": "dovme",
+      "texts": [
+        "",
+        "",
+        "Savasin Baslangici: Bunu tetikleyin.",
+        "Savasin Baslangici: Bunu iki kez tetikleyin."
+      ]
+    },
+    "molten_core": {
+      "name": "Erimis Cekirdek",
+      "rarity": "dovme",
+      "texts": [
+        "Savasin Baslangici: Kiliclariniza +10 bonus yanma verin.",
+        "Savasin Baslangici: Kiliclariniza +20 bonus yanma verin.",
+        "Savasin Baslangici: Kiliclariniza +40 bonus yanma verin.",
+        "Savasin Baslangici: Kiliclariniza kalici olarak +40 yanma verir."
+      ]
+    },
+    "home_brew": {
+      "name": "Ev yapimi bira",
+      "rarity": "ozel",
+      "texts": [
+        "Rastgele istatistiklere sahiptir.",
+        "Rastgele istatistiklere sahiptir.",
+        "Bunun bircok istatistigi var...",
+        "Bunda tonlarca istatistik var..."
+      ]
+    },
+    "jade": {
+      "name": "Yesim",
+      "rarity": "ozel",
+      "texts": [
+        "Tetiklendiginde: Zehirli esyalariniza kalici olarak +1 zehir verin.",
+        "Tetiklendiginde: Zehirli esyalariniza kalici olarak +2 zehir verin.",
+        "Tetiklendiginde: Zehirli esyalariniza kalici olarak +4 zehir verin.",
+        "Tetiklendiginde: Esyalariniza kalici olarak +8 zehir verin."
+      ]
+    },
+    "icicle": {
+      "name": "buz sacagi",
+      "rarity": "ozel",
+      "texts": [
+        "Tetiklendiginde: Rastgele bir dusman ogesini 2 saniye boyunca dondurun.",
+        "Tetiklendiginde: 2 rastgele dusman ogesini 2 saniye boyunca dondurun.",
+        "Tetiklendiginde: 3 rastgele dusman ogesini 2 saniye boyunca dondurun.",
+        "Tetiklendiginde: Tum dusman ogelerini 2 saniye boyunca dondurun."
+      ]
+    },
+    "mimic_rod": {
+      "name": "Mimik Cubuk",
+      "rarity": "ozel",
+      "texts": [
+        "Tetiklendiginde: Yukaridaki ogenin duz bir kopyasini alin.",
+        "Tetiklendiginde: Yukaridaki ogenin 2 normal kopyasini kazanin.",
+        "Tetiklendiginde: Yukaridaki ogenin 3 normal kopyasini kazanin.",
+        "Tetiklendiginde: Yukaridaki ogenin 4 normal kopyasini kazanin."
+      ]
+    },
+    "cursed_garnet": {
+      "name": "Lanetli Lal Tasi",
+      "rarity": "lanetli",
+      "texts": [
+        "Savasin Baslangici: Rastgele 2 Karanlik oge kazanin.",
+        "Savasin Baslangici: Rastgele 4 Karanlik oge kazanin.",
+        "Savasin Baslangici: Rastgele 6 Karanlik oge kazanin.",
+        "Savasin Baslangici: 6 adet rastgele Karanlik veya Lanetli esya kazanin."
+      ]
+    },
+    "cursed_tiara": {
+      "name": "Lanetli Tac",
+      "rarity": "lanetli",
+      "texts": [
+        "Savasin Baslangici: +5 bonus coklu yayin kazanin.",
+        "Savasin Baslangici: +10 bonus coklu yayin kazanin.",
+        "Savasin Baslangici: +15 bonus coklu yayin kazanin.",
+        "Savasin Baslangici: Kalici olarak +15 coklu yayin kazanirsiniz."
+      ]
+    },
+    "dark_orb": {
+      "name": "Karanlik Kure",
+      "rarity": "lanetli",
+      "texts": [
+        "Savasin Baslangici: Karanlik esyalarinizi tetikleyin. (Koyu Kolye haric)",
+        "Savasin Baslangici: Karanlik esyalarinizi iki kez tetikleyin. (Koyu Kolye haric)",
+        "Savasin Baslangici: Karanlik esyalarinizi uc kez tetikleyin. (Koyu Kolye haric)",
+        "Savasin Baslangici: Karanlik esyalarinizi 4 kez tetikleyin."
+      ]
+    },
+    "the_pyramid": {
+      "name": "Piramit",
+      "rarity": "lanetli",
+      "texts": [
+        "Savasin Baslangici: Sagdaki ogeye kalici olarak rastgele bir zayiflatma verin.",
+        "Savasin Baslangici: Ogeyi kalici olarak sag tarafa 2 rastgele zayiflatma verin.",
+        "Savasin Baslangici: Ogeyi kalici olarak sag tarafa 4 rastgele zayiflatma verin.",
+        "Savasin Baslangici: Ogeyi kalici olarak sagdaki 8 rastgele zayiflatmaya verin."
+      ]
+    },
+    "cursed_shield": {
+      "name": "Lanetli Kalkan",
+      "rarity": "lanetli",
+      "texts": [
+        "Savasin baslangici: Kalici olarak +4 coklu yayin kazanirsiniz.",
+        "Savasin baslangici: Kalici olarak +8 coklu yayin kazanirsiniz.",
+        "Savasin baslangici: Kalici olarak +16 coklu yayin ve +30 kalkan kazanirsiniz.",
+        "Dovusun baslangici: Kalici olarak bu ogenin coklu yayin degerinin 2 katina esit kalkan kazanirsiniz."
+      ]
+    }
+  },
+  "potions": {
+    "charge_potion": {
+      "name": "Sarj Kavanozu",
+      "texts": [
+        "Bir ogeye kalici olarak +1 Maksimum Yuk verin."
+      ]
+    },
+    "luck_potion": {
+      "name": "Sivi Sans",
+      "texts": [
+        "+%3 Sans kazanin."
+      ]
+    },
+    "starlight_potion": {
+      "name": "Yildiz Isigi Iksiri",
+      "texts": [
+        "Bir Kadeh, +5 Gelir ve rastgele bir 1 Yildizli Efsanevi kazanmak icin kullanin."
+      ]
+    },
+    "luck_tonic": {
+      "name": "Kucuk Sans Iksiri",
+      "texts": [
+        "+%1 Sans kazanin."
+      ]
+    },
+    "holy_water": {
+      "name": "Kutsal Su",
+      "texts": [
+        "+15000 Maksimum HP kazanin."
+      ]
+    },
+    "candy_blueberry_burst": {
+      "name": "Yaban Mersini Patlamasi",
+      "texts": [
+        "+{stat} daha ucuz yeniden kayitlar kazanmak ve gelecekteki sekerlerinizi gelistirmek icin kullanin."
+      ]
+    },
+    "candy_caramel": {
+      "name": "Karamel",
+      "texts": [
+        "Ona +{stat} vermek ve gelecekteki sekerinizi iyilestirmek icin ogeyi kullanin."
+      ]
+    },
+    "candy_cherry_bite": {
+      "name": "Kiraz Lokmasi",
+      "texts": [
+        "+{stat} Hasar vermek ve gelecekteki sekerinizi gelistirmek icin ogeyi kullanin."
+      ]
+    },
+    "candy_liquorice": {
+      "name": "Meyankoku",
+      "texts": [
+        "+{stat} Kalkan vermek ve gelecekteki sekerinizi gelistirmek icin ogeyi kullanin."
+      ]
+    },
+    "candy_mint_drop": {
+      "name": "Nane Damlasi",
+      "texts": [
+        "+{stat} maksimum HP kazanmak ve gelecekteki sekerlerinizi gelistirmek icin kullanin."
+      ]
+    },
+    "candy_sunburst": {
+      "name": "Gunes patlamasi",
+      "texts": [
+        "Bir ogeye +%{stat} kritik sansi vermek ve gelecekteki sekerinizi gelistirmek icin kullanin."
+      ]
+    },
+    "shock_vial": {
+      "name": "Sok Flakonu",
+      "texts": [
+        "+1 sok vermek icin ogeyi kullanin."
+      ]
+    },
+    "shock_potion": {
+      "name": "Sok Iksiri",
+      "texts": [
+        "+3 sok vermek icin ogeyi kullanin."
+      ]
+    },
+    "thunder_potion": {
+      "name": "Gok Gurultusu Iksiri",
+      "texts": [
+        "Sok hasarini kalici olarak +20 artirmak icin kullanin."
+      ]
+    },
+    "wrath_potion": {
+      "name": "Gazap Iksiri",
+      "texts": [
+        "+8 hasar vermek icin esyayi kullanin."
+      ]
+    },
+    "precision_flask": {
+      "name": "Hassas Sise",
+      "texts": [
+        "+%25 kritik sansi vermek icin esyayi kullanin."
+      ]
+    },
+    "mirror_elixir": {
+      "name": "Ayna Iksiri",
+      "texts": [
+        "Duz bir kopyasini almak icin ogeyi kullanin."
+      ]
+    },
+    "ink": {
+      "name": "Murekkep",
+      "texts": [
+        "Bekleme suresini 100 saniyeye ayarlamak icin ogeyi kullanin. Bos bir yuvada kullaniliyorsa yuva guclendirmesini kaldirin."
+      ]
+    },
+    "time_tonic": {
+      "name": "Zaman Tonigi",
+      "texts": [
+        "-0,5s bekleme suresi vermek icin ogeyi kullanin."
+      ]
+    },
+    "flask_of_venom": {
+      "name": "Zehir Sisesi",
+      "texts": [
+        "+2 Zehir vermek icin esyayi kullanin"
+      ]
+    },
+    "fire_bottle": {
+      "name": "Ates Sisesi",
+      "texts": [
+        "+2 Yakma vermek icin ogeyi kullanin."
+      ]
+    },
+    "blood_flask": {
+      "name": "Kan Sisesi",
+      "texts": [
+        "+1 Kanama saglamak icin esya uzerinde kullanin."
+      ]
+    },
+    "crownforge_brew": {
+      "name": "Crownforge Bira",
+      "texts": [
+        "2 Yildizli bir ogeyi 3 Yildizli bir ogeye yukseltmek icin kullanin."
+      ]
+    },
+    "royal_drops": {
+      "name": "Kraliyet Damlalari",
+      "texts": [
+        "Magazadaki bir ogeyi kullanarak o ogenin 3 kopyasini kazanin."
+      ]
+    },
+    "fury_potion": {
+      "name": "Keskinlik Yagi",
+      "texts": [
+        "+4 hasar ve +%15 kritik vurus vermek icin esyayi kullanin."
+      ]
+    },
+    "potion_of_appearance": {
+      "name": "Gorunum Iksiri",
+      "texts": [
+        "Magazada bulma sansini artirmak icin bir ogenin uzerinde kullanin."
+      ]
+    },
+    "potion_of_experience": {
+      "name": "Deneyim Iksiri",
+      "texts": [
+        "+20 XP kazanmak icin kullanin"
+      ]
+    },
+    "lesser_health_potion": {
+      "name": "Daha Az Saglik Iksiri",
+      "texts": [
+        "+30 Maksimum HP kazanmak icin kullanin."
+      ]
+    },
+    "lesser_crit_potion": {
+      "name": "Daha Az Kritik Iksiri",
+      "texts": [
+        "+%3 kritik vermek icin esya uzerinde kullanin."
+      ]
+    },
+    "lesser_damage_potion": {
+      "name": "Daha Az Hasar Iksiri",
+      "texts": [
+        "+1 hasar vermek icin oge uzerinde kullanin."
+      ]
+    },
+    "lesser_heal_potion": {
+      "name": "Az Iyilestirme Iksiri",
+      "texts": [
+        "+1 iyilestirme vermek icin ogeyi kullanin."
+      ]
+    },
+    "lesser_shield_potion": {
+      "name": "Kucuk Kalkan Iksiri",
+      "texts": [
+        "+1 kalkan vermek icin ogeyi kullanin."
+      ]
+    },
+    "lesser_xp_potion": {
+      "name": "Daha Az XP Iksiri",
+      "texts": [
+        "+4 XP kazanmak icin kullanin."
+      ]
+    },
+    "lesser_gold_potion": {
+      "name": "Kucuk Altin Iksiri",
+      "texts": [
+        "+4 altin kazanmak icin kullanin."
+      ]
+    },
+    "lesser_cloud_potion": {
+      "name": "Kucuk Bulut Iksiri",
+      "texts": [
+        "+1 daha ucuz yeniden kayit kazanmak icin kullanin."
+      ]
+    },
+    "value_potion": {
+      "name": "Deger Iksiri",
+      "texts": [
+        "Bu iksiri o esyayla takas etmek icin magazadaki bir esyayi kullanin."
+      ]
+    },
+    "excellence_flask": {
+      "name": "Mukemmellik Sisesi",
+      "texts": [
+        "+10 gelir elde etmek icin kullanin."
+      ]
+    },
+    "fortitude_potion": {
+      "name": "Cesaret Iksiri",
+      "texts": [
+        "+400 maksimum HP kazanmak icin kullanin."
+      ]
+    },
+    "burn_vial": {
+      "name": "Flakon Yak",
+      "texts": [
+        "+1 Yakma vermek icin ogeyi kullanin."
+      ]
+    },
+    "cloud_in_a_vial": {
+      "name": "Sisedeki Bulut",
+      "texts": [
+        "3 ucretsiz yeniden kayit kazanmak icin kullanin."
+      ]
+    },
+    "crit_vial": {
+      "name": "Kritik Sise",
+      "texts": [
+        "+%10 kritik sansi vermek icin esya uzerinde kullanin."
+      ]
+    },
+    "damage_vial": {
+      "name": "Hasar Sisesi",
+      "texts": [
+        "+3 hasar vermek icin esyayi kullanin."
+      ]
+    },
+    "experience_vial": {
+      "name": "Deneyim Flakonu",
+      "texts": [
+        "+12 XP kazanmak icin kullanin"
+      ]
+    },
+    "gold_vial": {
+      "name": "Altin Sise",
+      "texts": [
+        "+8 altin kazanmak icin kullanin."
+      ]
+    },
+    "health_vial": {
+      "name": "Saglik Sisesi",
+      "texts": [
+        "+150 maksimum HP kazanmak icin kullanin."
+      ]
+    },
+    "heal_vial": {
+      "name": "Sifa Sisesi",
+      "texts": [
+        "+3 iyilestirme vermek icin ogeyi kullanin."
+      ]
+    },
+    "poison_vial": {
+      "name": "Zehir Sisesi",
+      "texts": [
+        "+1 Zehir vermek icin esyayi kullanin"
+      ]
+    },
+    "shield_vial": {
+      "name": "Kalkan Sisesi",
+      "texts": [
+        "+3 kalkan vermek icin ogeyi kullanin."
+      ]
+    },
+    "time_vial": {
+      "name": "Zaman Sisesi",
+      "texts": [
+        "-0,2 saniye bekleme suresi vermek icin ogeyi kullanin."
+      ]
+    },
+    "morph_vial": {
+      "name": "Morph Sisesi",
+      "texts": [
+        "Ogeyi ayni nadirlikte rastgele bir ogeye donusturmek icin ogesini kullanin. (yildiz seviyesini korur)"
+      ]
+    },
+    "morph_potion": {
+      "name": "Donusum Iksiri",
+      "texts": [
+        "Ogeyi rastgele bir ogeye donusturmek icin kullanin (yildiz duzeyinde kalir)."
+      ]
+    },
+    "beetle_potion": {
+      "name": "Bocek Iksiri",
+      "texts": [
+        "+20 altin kazanmak icin kullanin."
+      ]
+    },
+    "cloud_in_a_bottle": {
+      "name": "Sisedeki Bulut",
+      "texts": [
+        "8 ucretsiz yeniden kayit kazanmak icin kullanin."
+      ]
+    },
+    "iron_potion": {
+      "name": "Demir Iksiri",
+      "texts": [
+        "+8 kalkan vermek icin ogeyi kullanin."
+      ]
+    },
+    "jungleblood": {
+      "name": "Orman kani",
+      "texts": [
+        "+8 zehir vermek icin esyayi kullanin."
+      ]
+    },
+    "liquid_knowledge": {
+      "name": "Sivi Bilgisi",
+      "texts": [
+        "Bir seviye kazanin."
+      ]
+    },
+    "mending_serum": {
+      "name": "Onarim Serumu",
+      "texts": [
+        "+8 iyilestirme vermek icin ogeyi kullanin."
+      ]
+    },
+    "phantom_brew": {
+      "name": "Hayalet Bira",
+      "texts": [
+        "+1 coklu yayin vermek icin ogeyi kullanin."
+      ]
+    },
+    "arcane_essence": {
+      "name": "Buyulu Oz",
+      "texts": [
+        "Ogeye Arcane etiketi vermek icin on ogesini kullanin."
+      ]
+    },
+    "crystal_essence": {
+      "name": "Kristal Ozu",
+      "texts": [
+        "Kristal etiketini vermek icin ogeyi kullanin."
+      ]
+    },
+    "elf_essence": {
+      "name": "Elf Ozu",
+      "texts": [
+        "Elf etiketini vermek icin ogeyi kullanin."
+      ]
+    },
+    "flame_essence": {
+      "name": "Alev Ozu",
+      "texts": [
+        "Alev etiketini vermek icin ogeyi kullanin."
+      ]
+    },
+    "frost_essence": {
+      "name": "Buzlu Oz",
+      "texts": [
+        "Ogeye Frosty etiketi vermek icin ogesini kullanin."
+      ]
+    },
+    "holy_essence": {
+      "name": "Kutsal Oz",
+      "texts": [
+        "Kutsal etiketi vermek icin ogeyi kullanin."
+      ]
+    },
+    "moon_essence": {
+      "name": "Ay Ozu",
+      "texts": [
+        "Ay etiketini vermek icin ogeyi kullanin."
+      ]
+    },
+    "witch_essence": {
+      "name": "Cadi Ozu",
+      "texts": [
+        "Ogeye Cadi etiketi vermek icin ogesini kullanin."
+      ]
+    },
+    "storm_essence": {
+      "name": "Firtina Ozu",
+      "texts": [
+        "Ogeye Storm etiketi vermek icin on ogesini kullanin."
+      ]
+    },
+    "dark_essence": {
+      "name": "Karanlik Oz",
+      "texts": [
+        "Ogeye Karanlik etiketi vermek icin ogesini kullanin."
+      ]
+    },
+    "rainbow_potion": {
+      "name": "Gokkusagi Iksiri",
+      "texts": [
+        "Garantili bir sansli yeniden kayit kazanmak icin kullanin."
+      ]
+    }
+  }
+}
